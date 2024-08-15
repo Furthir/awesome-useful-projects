@@ -3,6 +3,8 @@ https://github.com/PrismLauncher/PrismLauncher - Custom launcher for Minecraft
 
 https://github.com/fn2006/PollyMC - Fork of Prism supporting accountless offline and FTB downloading
 
+https://github.com/hero-persson/FjordLauncherUnlocked - Maintained fork of fork of PollyMC
+
 https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher - Epic Games Launcher on Linux
 
 https://github.com/FeralInteractive/gamemode - Optimize Linux performance
