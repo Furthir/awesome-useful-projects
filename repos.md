@@ -325,6 +325,8 @@ https://github.com/excalidraw/excalidraw - Virtual whiteboard
 
 https://github.com/mtytel/vital - Synthesizer
 
+https://github.com/VASTDynamics/Vaporizer2 - Synthesizer
+
 https://github.com/GraphiteEditor/Graphite - Vector and raster editor
 
 https://github.com/Orama-Interactive/Pixelorama - Cross-platform Pixel art multitool
