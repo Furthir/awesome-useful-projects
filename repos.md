@@ -150,6 +150,7 @@ https://github.com/Everduin94/better-commits - Better commits following the conv
 
 https://github.com/MohamedElashri/gh-cp - GitHub CLI extension to copy files without cloning
 
+https://github.com/TheZoraiz/ascii-image-converter - Convert images to ascii art
 
 ### CLI/TUI Apps
 https://github.com/neovim/neovim - Better vim
@@ -528,6 +529,7 @@ https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet - List of supported games
 
 https://github.com/dimtpap/coppwr - GUI tool for PipeWire management
 
+https://github.com/winapps-org/winapps - Run Windows apps like they are native
 
 
 ### Useful
