@@ -1,4 +1,8 @@
 ### Games
+https://github.com/PojavLauncherTeam/PojavLauncher - [Android] Minecraft Java Edition launcher
+
+https://github.com/PojavLauncherTeam/PojavLauncher_iOS - [iOS] Minecraft Java Edition launcher
+
 https://github.com/PrismLauncher/PrismLauncher - Custom launcher for Minecraft
 
 https://github.com/fn2006/PollyMC - Fork of Prism supporting accountless offline and FTB downloading
