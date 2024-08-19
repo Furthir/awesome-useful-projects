@@ -87,6 +87,8 @@ https://github.com/Naezr/ShyFox - Hidden element Firefox theme
 
 https://github.com/nyoom-engineering/oxocarbon.nvim - Neovim theme
 
+https://github.com/NvChad/NvChad - Neovim config
+
 https://github.com/Everblush - Dark vibrant color scheme
 
 
