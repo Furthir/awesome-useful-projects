@@ -27,6 +27,8 @@ https://github.com/KotRikD/tosu - osu! overlays
 
 https://github.com/nzbasic/batch-beatmap-downloader - Batch map downloader for osu!
 
+https://github.com/Piotrekol/CollectionManager - osu! collection manager
+
 
 ### Backup/Sync
 https://github.com/RsyncProject/rsync - Incremental file transfer tool
@@ -173,6 +175,7 @@ https://github.com/HxX2/todocli - Todo list manager
 
 https://github.com/abeleinin/goki - Spaced repetition flashcard tool
 
+https://github.com/ncmpcpp/ncmpcpp - ncurses based MPD client
 
 ### Oh-My
 https://github.com/JanDeDobbeleer/oh-my-posh
@@ -340,6 +343,8 @@ https://github.com/Rafficer/linux-cli-community - Linux command-line client for 
 
 https://github.com/keepassxreboot/keepassxc - Password manager
 
+https://github.com/bitwarden/clients - Password manager
+
 https://github.com/paulmillr/encrypted-dns - DNS over HTTPS config profiles for iOS & macOS
 
 https://github.com/mullvad/dns-blocklists - DNS Blocklists
@@ -487,7 +492,17 @@ https://github.com/apernet/OpenGFW - Great Firewall of China
 
 https://github.com/gdzx/audiosource - Use an Android device as a USB microphone
 
+https://github.com/TheAssassin/AppImageLauncher -  AppImage integration
+
+https://github.com/pop-os/cosmic-epoch - Cosmic DE
+
+https://github.com/hyprwm/Hyprland - that one wm..
+
 https://github.com/swaywm/sway/ - i3-compatible Wayland WM
+
+https://codeberg.org/river/river - Wayland tiling WM
+
+https://github.com/cococry/ragnar - X tiling window manager
 
 https://github.com/dunst-project/dunst - Customizable notification daemon
 
