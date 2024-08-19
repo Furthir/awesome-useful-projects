@@ -177,6 +177,9 @@ https://github.com/abeleinin/goki - Spaced repetition flashcard tool
 
 https://github.com/ncmpcpp/ncmpcpp - ncurses based MPD client
 
+https://github.com/pystardust/ani-cli - CLI app to browse and play anime
+
+https://github.com/ravachol/kew - Music player
 ### Oh-My
 https://github.com/JanDeDobbeleer/oh-my-posh
 
@@ -336,6 +339,14 @@ https://github.com/VASTDynamics/Vaporizer2 - Synthesizer
 https://github.com/GraphiteEditor/Graphite - Vector and raster editor
 
 https://github.com/Orama-Interactive/Pixelorama - Cross-platform Pixel art multitool
+
+https://github.com/blender/blender - 3D creation suite
+
+https://github.com/KDE/kdenlive - MLT Framework video editor
+
+https://github.com/OpenShot/openshot-qt - Cross-platform video editor
+
+https://github.com/olive-editor/olive - Cross-platform non-linear video editor
 
 
 ### Privacy/Security
