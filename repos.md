@@ -456,6 +456,8 @@ https://github.com/straight-tamago/misaka - iOS & tvOS customisation tool for KF
 
 https://github.com/opa334/TrollStore - Jailed iOS app that can install IPAs permanently
 
+https://github.com/swaggyP36000/TrollStore-IPAs - TrollStore IPAs
+
 https://github.com/opa334/Dopamine Semi-untethered jailbreak for iOS 15 and 16
 
 https://github.com/0xilis/LetMePass - [Tweak] Bypasses YouTube's version alert
