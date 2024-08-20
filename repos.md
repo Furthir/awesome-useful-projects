@@ -1,3 +1,56 @@
+## Jump To
+
+[Games](/repos.md#Games)
+
+[Backup/Sync](/repos.md#backupsync)
+
+[Customizations](/repos.md#Customizations)
+
+[Awesome Lists](/repos.md#awesome-lists)
+
+[Command Line Tools](/repos.md#command-line-tools)
+
+[CLI/TUI Apps](/repos.md#clitui-apps)
+
+[Oh-My](/repos.md#oh-my)
+
+[Peripherals](/repos.md#peripherals)
+
+[Modded](/repos.md#modded)
+
+[Mail](/repos.md#mail)
+
+[Browsers](/repos.md#Browsers)
+
+[Browser Extensions/Scripts/Tools](/repos.md#browser-extensionsscriptstools)
+
+[Download Managers/Torrenters](/repos.md#download-managerstorrenters)
+
+[Creative](/repos.md#creative)
+
+[Privacy/Security](/repos.md#privacysecurity)
+
+[Productivity](/repos.md#productivity)
+
+[Media](/repos.md#media)
+
+[Android](/repos.md#Android)
+
+[iOS](/repos.md#iOS)
+
+[Windows](/repos.md#Windows)
+
+[Linux](/repos.md#Linux)
+
+[Useful](/repos.md#Useful)
+
+[Other](/repos.md#Other)
+
+
+
+
+
+
 ### Games
 https://github.com/PojavLauncherTeam/PojavLauncher - [Android] Minecraft Java Edition launcher
 
@@ -275,6 +328,7 @@ https://github.com/brave/brave-browser - Chromium-based browser
 https://github.com/gorhill/uBlock - This is the greatest adblocker of All Time
 
 https://github.com/violentmonkey/violentmonkey - Userscript manager
+
 https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated - Auto-bypass link shorteners
 
 https://github.com/bpc-clone/bypass-paywalls-chrome-clean - [Chrome] Bypass paywalls on sites (articles) 
@@ -794,3 +848,5 @@ https://github.com/Achno/gowall - Convert a wallpaper's color scheme / palette
 https://github.com/HeyPuter/puter - Internet OS
 
 https://github.com/AsteroidOS/asteroid - Alternate smartwatch OS
+
+https://github.com/jlevy/the-art-of-command-line - Master the command line
