@@ -9,3 +9,9 @@ https://mehmetkahya0.github.io/temp-mail/ - Temp mail
 https://fmhy.net/ - FreeMediaHeckYeah
 
 https://sober.vinegarhq.org - Roblox on Linux
+
+https://prism-break.org/en/
+
+https://switching.software/
+
+https://massgrave.dev

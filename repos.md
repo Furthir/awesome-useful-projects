@@ -268,10 +268,13 @@ https://gitlab.com/librewolf-community/browser/source - Privacy-focused Firefox 
 
 https://github.com/brave/brave-browser - Chromium-based browser
 
+[https://github.com/mullvad/mullvad-browser/](https://github.com/mullvad/mullvad-browser/tree/mullvad-browser-128.1.0esr-14.0-1) - Privacy-focused browser
+
 
 ### Browser Extensions/Scripts/Tools
-https://github.com/gorhill/uBlock - the greatest adblocker of all time
+https://github.com/gorhill/uBlock - This is the greatest adblocker of All Time
 
+https://github.com/violentmonkey/violentmonkey - Userscript manager
 https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated - Auto-bypass link shorteners
 
 https://github.com/bpc-clone/bypass-paywalls-chrome-clean - [Chrome] Bypass paywalls on sites (articles) 
@@ -324,9 +327,19 @@ https://github.com/PintaProject/Pinta - GTK clone of paint.net
 
 https://github.com/darktable-org/darktable - Image post-processing/editing
 
+https://github.com/Beep6581/RawTherapee - Cross-platform raw photo processing program
+
 https://github.com/xournalpp/xournalpp - Handwriting notetaking software
 
 https://github.com/KDE/krita - Digital art/painting application 
+
+https://github.com/mypaint/mypaint - Simple drawing/painting program
+
+https://github.com/MaurycyLiebner/enve - 2D animation software
+
+https://github.com/synfig/synfig/ - 2D animation software
+
+https://github.com/opentoonz/opentoonz - 2D animation software
 
 https://github.com/maoschanz/drawing - Simple image editor for Linux
 
@@ -346,11 +359,18 @@ https://github.com/Orama-Interactive/Pixelorama - Cross-platform Pixel art multi
 
 https://github.com/blender/blender - 3D creation suite
 
+https://github.com/FreeCAD/FreeCAD - Cross-platform 3D modeler
+
 https://github.com/KDE/kdenlive - MLT Framework video editor
 
 https://github.com/OpenShot/openshot-qt - Cross-platform video editor
 
 https://github.com/olive-editor/olive - Cross-platform non-linear video editor
+
+https://github.com/NatronGitHub/Natron - Cross-platform Adobe Effects alternative
+
+https://github.com/penpot/penpot - Design and code collab tool
+
 
 
 ### Privacy/Security
@@ -359,6 +379,8 @@ https://github.com/Rafficer/linux-cli-community - Linux command-line client for 
 https://github.com/keepassxreboot/keepassxc - Password manager
 
 https://github.com/bitwarden/clients - Password manager
+
+https://github.com/authpass/authpass - Cross-platform Password manager
 
 https://github.com/paulmillr/encrypted-dns - DNS over HTTPS config profiles for iOS & macOS
 
@@ -371,8 +393,6 @@ https://github.com/undergroundwires/privacy.sexy - Privacy configurations for de
 https://github.com/owerdogan/whoami-project - Debian/Arch privacy tool
 
 https://github.com/FlareSolverr/FlareSolverr - Proxy server to bypass Cloudflare protection
-
-https://github.com/authpass/authpass - Cross-platform Password manager
 
 https://github.com/nuclearfog/Shitter - Lightweight Android app for Mastodon
 
@@ -396,15 +416,56 @@ https://gitlab.futo.org/keyboard/latinime - Android keyboard that doesn't spy
 
 https://github.com/TeamPiped/RYD-Proxy - non-logging proxy for Return YouTube Dislike API server
 
+https://github.com/searxng/searxng - Internet metasearch engine
 
-### Work
+https://github.com/LibreTranslate/LibreTranslate - Translator
+
+https://github.com/thedaviddelta/lingva-translate - Alternative front-end for Google Translate
+
+https://github.com/LibrePhotos/librephotos - Self-hosted photo management service
+
+https://github.com/photoprism/photoprism - AI-powered photos app for the Decentralized Web
+
+https://github.com/librespeed/speedtest - Libre internet speed test
+
+https://github.com/mollyim/mollyim-android - [Android] Hardened Signal app
+
+### Productivity
 https://github.com/mattermost/focalboard - Project management tool alternative to Trello/Notion/Asana
+
+https://github.com/toeverything/AFFiNE - Notion/Miro alternative
+
+https://github.com/AppFlowy-IO/AppFlowy - Notion alternative
 
 https://github.com/Zettlr/Zettlr - Publication workbench
 
 https://github.com/gristlabs/grist-core - Modern relational spreadsheets
 
 https://github.com/zed-industries/zed - Code editor
+
+https://github.com/reorproject/reor - AI-powered note taking app
+
+https://github.com/laurent22/joplin/ - Cross-platform note taking app
+
+https://github.com/siyuan-note/siyuan - Privacy-first personal knowledge management system
+
+https://github.com/anyproto/anytype-ts -  Personal knowledge base
+
+https://github.com/Stirling-Tools/Stirling-PDF - Local-hosted PDF editor
+
+https://github.com/documenso/documenso - Digital document signer
+
+https://github.com/docusealco/docuseal - Digital document signer
+
+https://codeberg.org/tenacityteam/tenacity -  Multi-track audio editor and recorder
+
+https://github.com/ether/etherpad-lite - Real-time collaborative document editor
+
+https://github.com/ONLYOFFICE/DocumentServer - Collaborative online office suite
+
+https://github.com/cryptpad/cryptpad - E2EE Collaborative office suite
+
+https://github.com/SwitchbackTech/compass - Calendar app
 
 
 ### Media
@@ -444,13 +505,25 @@ https://github.com/nukeop/nuclear - Streaming music player that finds free music
 
 
 ### Android
-https://github.com/breezy-weather/breezy-weather - Weather app for Android
+https://github.com/breezy-weather/breezy-weather - Weather app 
 
-https://github.com/davidhealey/waistline - calorie counter app for Android
+https://github.com/davidhealey/waistline - Calorie counter app 
 
-https://gitlab.com/fdroid/fdroidclient - Client for [F-Droid](https://f-droid.org), the Free Software repository system for Android.
+https://gitlab.com/fdroid/fdroidclient - Client for [F-Droid](https://f-droid.org), a Free Software repo system
 
-https://github.com/FossifyOrg/File-Manager - Android file manager
+https://github.com/FossifyOrg/File-Manager - File manager
+
+https://github.com/Etar-Group/Etar-Calendar - Calendar app
+
+https://github.com/LineageOS/android - Alternate Android OS
+
+https://github.com/GrapheneOS/hardened_malloc - Privacy and security focused OS
+
+https://github.com/LawnchairLauncher/lawnchair - Material You launcher
+
+https://github.com/DroidWorksStudio/mLauncher - Minimal Launcher app
+
+https://github.com/ImranR98/Obtainium - Get app updates straight from the source
 
 
 ### iOS
@@ -484,6 +557,8 @@ https://github.com/utmapp/UTM - Virtual machine for iOS and macOS
 
 https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy
 
+https://github.com/iKenndac/Tofu - 2FA app
+
 
 
 ### Windows
@@ -496,6 +571,8 @@ https://github.com/massgravel/Microsoft-Activation-Scripts/ - Windows activation
 https://github.com/Open-Shell/Open-Shell-Menu - Windows Start menu replacement
 
 https://github.com/miniant-git/REAL - Reduce audio latency on Windows
+
+https://github.com/sabrogden/Ditto - Windows clipboard extension
 
 
 ### Linux
@@ -565,17 +642,23 @@ https://github.com/dimtpap/coppwr - GUI tool for PipeWire management
 
 https://github.com/winapps-org/winapps - Run Windows apps like they are native
 
+https://github.com/euclio/fm - Simple GTK4 file manager
+
 
 ### Useful
-https://github.com/mifi/lossless-cut - Loessless video cutting tool
+https://github.com/mifi/lossless-cut - Lossless video cutting tool
+
+https://github.com/HandBrake/HandBrake - Video transcoder
 
 https://github.com/zws-im/zws - Zero width link shortener
+
+https://github.com/dubinc/dub - Link shortener and management
 
 https://github.com/kurolabs/stegcloak - Create hidden messages
 
 https://github.com/diced/zipline - ShareX/file upload server
 
-https://github.com/ActivityWatch/activitywatch - Automated time tracker of acitivity
+https://github.com/ActivityWatch/activitywatch - Automated time tracker of activity
 
 https://github.com/rustdesk/rustdesk - Remote desktop application
 
@@ -583,13 +666,15 @@ https://github.com/dail8859/NotepadNext - Cross-platform, reimplementation of No
 
 https://github.com/H-M-H/Weylus - Use tablet as graphic tablet/touch screen
 
-https://github.com/Sangwan5688/BlackHole - Music player app
+[https://github.com/Sangwan5688/BlackHole](https://web.archive.org/web/20240312134329/https://github.com/Sangwan5688/BlackHole) - Music player app
 
 https://github.com/Slackadays/Clipboard - Smart clipboard manager
 
 https://github.com/files-community/Files - File manager for Windows
 
 https://github.com/localsend/localsend - Cross-platform alternative to AirDrop
+
+https://github.com/Jacalz/rymdport - Cross-platform file sharing between devices
 
 https://github.com/Lenochxd/WebDeck - Web-based StreamDeck alternative
 
@@ -631,8 +716,7 @@ https://github.com/pbatard/rufus - USB formatting utility
 
 https://github.com/nextcloud/server - (Self-hosted) Cloud storage service
 
-https://github.com/DevToys-app/DevToy
-s - Cross-platform bundle of tools for doing quick tasks
+https://github.com/DevToys-app/DevToys - Cross-platform bundle of tools for doing quick tasks
 
 https://github.com/bleachbit/bleachbit - System cleaner for Windows and Linux
 
@@ -640,12 +724,17 @@ https://github.com/t4rra/CCStopper -  Stops Adobe's background apps
 
 https://github.com/signalapp - Cross-platform private messenger
 
-https://github.com/sabrogden/Ditto - Windows clipboard extension
-
-https://github.com/peazip/PeaZip - Cross-platform file and archive manager.
+https://github.com/peazip/PeaZip - Cross-platform file and archive manager
 
 https://github.com/ventoy/Ventoy - Bootable USB solution
 
+https://github.com/GyulyVGC/sniffnet - Cross-platform network traffic monitor
+
+https://github.com/organicmaps/organicmaps - Offline maps app using OpenStreetMap
+
+https://github.com/upscayl/upscayl - Cross-platform AI image upscaler
+
+https://github.com/spipm/Depix - Recovers passwords from pixelized screenshots
 
 ### Other
 https://github.com/aelew/devterms - Crowdsourced dictionary for developers
@@ -672,11 +761,7 @@ https://github.com/RishiBakshii/Baatchit-Modern-Chat-Application - Modern real-t
 
 https://github.com/junkdog/tachyonfx - Shader-like effects library for ratatui applications
 
-https://github.com/spipm/Depix - Recovers passwords from pixelized screenshots
-
 https://github.com/alexkirsz/dispatch - Combine internet connections
-
-https://github.com/Valks-Minecraft-Plugins/FiestaMC - Minecraft modpack debugging tool
 
 https://github.com/MaxAlyokhin/binary-synth - Binary file interpreter for audio synthesis
 
@@ -705,3 +790,7 @@ https://github.com/EmperorEntropy/PaletteSnap - Color palette generator
 https://github.com/project-gauntlet/gauntlet - Cross-platform application launcher
 
 https://github.com/Achno/gowall - Convert a wallpaper's color scheme / palette
+
+https://github.com/HeyPuter/puter - Internet OS
+
+https://github.com/AsteroidOS/asteroid - Alternate smartwatch OS
