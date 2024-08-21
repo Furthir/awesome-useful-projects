@@ -1,67 +1,51 @@
 ## Jump To
 
-[Games](/repos.md#Games)
-
-[Backup/Sync](/repos.md#backupsync)
-
-[Customizations](/repos.md#Customizations)
-
-[Awesome Lists](/repos.md#awesome-lists)
-
-[Command Line Tools](/repos.md#command-line-tools)
-
-[CLI/TUI Apps](/repos.md#clitui-apps)
-
-[Oh-My](/repos.md#oh-my)
-
-[Peripherals](/repos.md#peripherals)
-
-[Modded](/repos.md#modded)
-
-[Mail](/repos.md#mail)
-
-[Browsers](/repos.md#Browsers)
-
-[Browser Extensions/Scripts/Tools](/repos.md#browser-extensionsscriptstools)
-
-[Download Managers/Torrenters](/repos.md#download-managerstorrenters)
-
-[Creative](/repos.md#creative)
-
-[Privacy/Security](/repos.md#privacysecurity)
-
-[Productivity](/repos.md#productivity)
-
-[Media](/repos.md#media)
-
-[Android](/repos.md#Android)
-
-[iOS](/repos.md#iOS)
-
-[Windows](/repos.md#Windows)
-
-[Linux](/repos.md#Linux)
-
-[Useful](/repos.md#Useful)
-
-[Other](/repos.md#Other)
+- [Games](/repos.md#Games) - Game related tools/projects
+- [Backup/Sync](/repos.md#backupsync) - Backup solutions and tools
+- [Customizations](/repos.md#Customizations) - Programs for customizing stuff
+- [Awesome Lists](/repos.md#awesome-lists) - Lists of useful resources
+- [Command Line Tools](/repos.md#command-line-tools) - Command Line Utilities
+- [CLI/TUI Apps](/repos.md#clitui-apps) - CLI/TUI based applications
+- [Oh-My](/repos.md#oh-my) - Customized shells 
+- [Peripherals](/repos.md#peripherals) - Programs to interact with your peripherals
+- [Modded](/repos.md#modded) - Modded applications and clients
+- [Mail](/repos.md#mail) - Email management
+- [Browsers](/repos.md#Browsers) - Browsers
+- [Browser Extensions/Scripts/Tools](/repos.md#browser-extensionsscriptstools) - Browser extensions
+- [Download Managers/Torrenters](/repos.md#download-managerstorrenters) - Download managers
+- [Creative](/repos.md#creative) - Creative programs and suites
+- [Privacy/Security](/repos.md#privacysecurity) - Projects focusing on maintaining users' privacy
+- [Productivity](/repos.md#productivity) - Producitivity apps
+- [Media](/repos.md#media) - Media related apps
+- [Android](/repos.md#Android) - Android specific projects
+- [iOS](/repos.md#iOS) - iOS specific projects
+- [Windows](/repos.md#Windows) - Windows specific projects
+- [Linux](/repos.md#Linux) - Linux specific projects
+- [Useful](/repos.md#Useful) - Personal picks of very useful projects
+- [Other](/repos.md#Other) - Fun/interesting/miscellaneous projects
 
 
 
 ### Games
-https://github.com/PojavLauncherTeam/PojavLauncher - [Android] Minecraft Java Edition launcher
+https://github.com/mtkennerly/ludusavi - Backup tool for PC game data
 
-https://github.com/PojavLauncherTeam/PojavLauncher_iOS - [iOS] Minecraft Java Edition launcher
+https://github.com/JosefNemec/Playnite - Game library manager
 
 https://github.com/PrismLauncher/PrismLauncher - Custom launcher for Minecraft
 
 https://github.com/fn2006/PollyMC - Fork of Prism supporting accountless offline and FTB downloading
 
-https://github.com/hero-persson/FjordLauncherUnlocked - Maintained fork of fork of PollyMC
+https://github.com/hero-persson/FjordLauncherUnlocked - Maintained fork of fork of PollyMC reremoving DRM
+
+https://github.com/PojavLauncherTeam/PojavLauncher - [Android] Minecraft Java Edition launcher
+
+https://github.com/PojavLauncherTeam/PojavLauncher_iOS - [iOS] Minecraft Java Edition launcher
 
 https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher - Epic Games Launcher on Linux
 
 https://github.com/FeralInteractive/gamemode - Optimize Linux performance
+
+https://github.com/pizzaboxer/bloxstrap - Custom Roblox bootstrapper
 
 https://github.com/ic3w0lf22/Roblox-Account-Manager - Roblox account manager
 
@@ -71,7 +55,7 @@ https://github.com/an-anime-team/an-anime-game-launcher - Genshit on Linux
 
 https://github.com/an-anime-team/honkers-launcher - HI on Linux
 
-https://github.com/an-anime-team/the-honkers-railway-launcher - HSR on Linux
+https://github.com/an-anime-team/the-honkers-railway-launcher - honk on Linux
 
 https://github.com/yaagl/yet-another-anime-game-launcher - Thy Anime Games on Mac
 
@@ -123,11 +107,13 @@ https://github.com/stepanzubkov/where-is-my-sddm-theme - Minimal SDDM theme
 
 https://github.com/vinceliuice/Colloid-gtk-theme - GTK theme
 
-https://github.com/Aylur/ags - Linux (Wayland) desktop widgets
-
 https://github.com/elkowar/eww - Linux desktop widgets
 
-https://github.com/GradienceTeam/Gradience GTK theming tool
+https://github.com/Aylur/ags - Linux Wayland desktop widgets
+
+https://github.com/brndnmtthws/conky - Linux X11 desktop widgets
+
+https://github.com/GradienceTeam/Gradience - GTK theming tool
 
 https://github.com/catsout/wallpaper-engine-kde-plugin - Wallpaper Engine for KDE
 
@@ -135,17 +121,19 @@ https://github.com/danihek/Themecord - Discord theme matching wallpaper
 
 https://github.com/0bCdian/Waypaper-Engine - Wayland wallpaper setter GUI 
 
-https://github.com/brndnmtthws/conky - Linux (X) desktop widgets
-
 https://github.com/starship/starship - Custom shell prompt
 
 https://github.com/Naezr/ShyFox - Hidden element Firefox theme
+
+https://github.com/datguypiko/Firefox-Mod-Blur - Firefox theme
 
 https://github.com/nyoom-engineering/oxocarbon.nvim - Neovim theme
 
 https://github.com/NvChad/NvChad - Neovim config
 
 https://github.com/Everblush - Dark vibrant color scheme
+
+https://github.com/gpakosz/.tmux - tmux config
 
 
 ### Awesome Lists
@@ -245,11 +233,9 @@ https://github.com/ohmybash/oh-my-bash
 
 https://github.com/ohmyzsh/ohmyzsh/
 
-https://github.com/gpakosz/.tmux - tmux config
-
 
 ### Peripherals
-https://github.com/zocker-160/keyboard-center - mapping macro keys on Logitech keyboards
+https://github.com/zocker-160/keyboard-center - Mapping macro keys on Logitech keyboards
 
 https://github.com/pwr-Solaar/Solaar - Linux device manager for Logitech devices
 
@@ -275,13 +261,19 @@ https://github.com/acquitelol/rosiecord - Modded Discord client for iOS
 
 https://github.com/GooseMod/OpenAsar - Better Discord app.asar
 
-https://github.com/BetterDiscord/BetterDiscord - Modded Discord client
+https://github.com/BetterDiscord/BetterDiscord - Modded Discord desktop client
 
-https://github.com/Vendicated/Vencord - Modded Discord client
+https://github.com/Vendicated/Vencord - Modded Discord desktop/browser client
 
 https://github.com/Vencord/Vesktop - Modded Discord web client
 
 https://github.com/uowuo/abaddon - Alternative Discord client using GTK
+
+https://github.com/spicetify/cli - Modded Spotify client
+
+https://github.com/mrpond/BlockTheSpot - Spotify adblocker
+
+https://github.com/Team-xManager/xManager - Modded Spotify client for Android
 
 https://github.com/TherionRO/YouTubeiVanced - Modded YouTube for iOS
 
@@ -292,12 +284,6 @@ https://github.com/YTLitePlus/YTLitePlus - Modded YouTube for iOS (better)
 https://github.com/qnblackcat/uYouPlus - Modded YouTube for iOS
 
 https://github.com/arichornlover/uYouEnhanced - Modded YouTube for iOS
-
-https://github.com/spicetify/cli - Modded Spotify client
-
-https://github.com/mrpond/BlockTheSpot - Spotify adblocker
-
-https://github.com/Team-xManager/xManager - Modded Spotify client for Android
 
 ### Mail
 https://github.com/Betterbird/thunderbird-patches - Patches for Thunderbird
@@ -312,21 +298,27 @@ https://github.com/vladimiry/ElectronMail - Unofficial ProtonMail desktop app
 ### Browsers
 https://github.com/floorp-Projects/floorp/ - Customizable Firefox-based browser
 
-https://github.com/zen-browser/desktop - Firefox-based browser
-
 https://github.com/LadybirdBrowser/ladybird - Independent browser
 
 https://gitlab.com/librewolf-community/browser/source - Privacy-focused Firefox browser
 
+[https://github.com/mullvad/mullvad-browser/](https://github.com/mullvad/mullvad-browser/tree/mullvad-browser-128.1.0esr-14.0-1) - Privacy-focused browser
+
 https://github.com/brave/brave-browser - Chromium-based browser
 
-[https://github.com/mullvad/mullvad-browser/](https://github.com/mullvad/mullvad-browser/tree/mullvad-browser-128.1.0esr-14.0-1) - Privacy-focused browser
+https://github.com/zen-browser/desktop - Firefox-based browser
 
 
 ### Browser Extensions/Scripts/Tools
 https://github.com/gorhill/uBlock - This is the greatest adblocker of All Time
 
+https://github.com/pixeltris/TwitchAdSolutions - Twitch adblocking
+
+https://github.com/besuper/TwitchNoSub - Twitch subonly content bypass
+
 https://github.com/violentmonkey/violentmonkey - Userscript manager
+
+https://github.com/openstyles/stylus - Userstyles manager
 
 https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated - Auto-bypass link shorteners
 
@@ -336,17 +328,13 @@ https://github.com/bpc-clone/bypass-paywalls-firefox-clean - [Firefox] Bypass pa
 
 https://github.com/sblask-webextensions/webextension-skip-redirect - Skips directly to final URL
 
+https://codeberg.org/LibRedirect/browser_extension - Redirects popular sites to alternative frontends
+
 https://github.com/BrowserBoost/Extension - Various browser tweaks
 
 https://github.com/NicolaeNMV/BehindTheOverlay - Close any overlay on any website
 
 https://github.com/tridactyl/tridactyl - Vim-like interface for Firefox
-
-https://github.com/sapjax/word-hunter - Discover new english words
-
-https://github.com/pixeltris/TwitchAdSolutions - Twitch adblocking
-
-https://github.com/besuper/TwitchNoSub - Twitch subonly content bypass
 
 https://github.com/goodtube4u/goodtube - Script to mod YouTube
 
@@ -356,9 +344,9 @@ https://github.com/yokoffing/Betterfox - Firefox user.js for speed, privacy, and
 
 https://github.com/maxhu08/mtab - New tab extension
 
-https://github.com/datguypiko/Firefox-Mod-Blur - Firefox theme
-
 https://github.com/linuxmint/webapp-manager - Create webapps
+
+https://github.com/sapjax/word-hunter - Discover new english words
 
 
 ### Download Managers/Torrenters
@@ -376,8 +364,6 @@ https://github.com/imfile-io/imfile-desktop/ - Maintained Motrix fork
 
 
 ### Creative
-https://github.com/PintaProject/Pinta - GTK clone of paint.net
-
 https://github.com/darktable-org/darktable - Image post-processing/editing
 
 https://github.com/Beep6581/RawTherapee - Cross-platform raw photo processing program
@@ -386,13 +372,9 @@ https://github.com/xournalpp/xournalpp - Handwriting notetaking software
 
 https://github.com/KDE/krita - Digital art/painting application 
 
+https://github.com/GraphiteEditor/Graphite - Vector and raster editor
+
 https://github.com/mypaint/mypaint - Simple drawing/painting program
-
-https://github.com/MaurycyLiebner/enve - 2D animation software
-
-https://github.com/synfig/synfig/ - 2D animation software
-
-https://github.com/opentoonz/opentoonz - 2D animation software
 
 https://github.com/maoschanz/drawing - Simple image editor for Linux
 
@@ -400,15 +382,21 @@ https://gitlab.com/inkscape/inkscape - Vector image editor
 
 https://github.com/excalidraw/excalidraw - Virtual whiteboard
 
-[https://github.com/LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
+https://github.com/PintaProject/Pinta - GTK clone of paint.net
+
+https://github.com/Orama-Interactive/Pixelorama - Cross-platform Pixel art multitool
+
+https://github.com/MaurycyLiebner/enve - 2D animation software
+
+https://github.com/synfig/synfig/ - 2D animation software
+
+https://github.com/opentoonz/opentoonz - 2D animation software
+
+https://github.com/LMMS/lmms - Cross-platform music production software
 
 https://github.com/mtytel/vital - Synthesizer
 
 https://github.com/VASTDynamics/Vaporizer2 - Synthesizer
-
-https://github.com/GraphiteEditor/Graphite - Vector and raster editor
-
-https://github.com/Orama-Interactive/Pixelorama - Cross-platform Pixel art multitool
 
 https://github.com/blender/blender - 3D creation suite
 
@@ -425,15 +413,14 @@ https://github.com/NatronGitHub/Natron - Cross-platform Adobe Effects alternativ
 https://github.com/penpot/penpot - Design and code collab tool
 
 
-
 ### Privacy/Security
-https://github.com/Rafficer/linux-cli-community - Linux command-line client for ProtonVPN
-
 https://github.com/keepassxreboot/keepassxc - Password manager
 
 https://github.com/bitwarden/clients - Password manager
 
 https://github.com/authpass/authpass - Cross-platform Password manager
+
+https://github.com/librespeed/speedtest - Libre internet speed test
 
 https://github.com/paulmillr/encrypted-dns - DNS over HTTPS config profiles for iOS & macOS
 
@@ -445,15 +432,13 @@ https://github.com/undergroundwires/privacy.sexy - Privacy configurations for de
 
 https://github.com/owerdogan/whoami-project - Debian/Arch privacy tool
 
-https://github.com/FlareSolverr/FlareSolverr - Proxy server to bypass Cloudflare protection
-
-https://github.com/nuclearfog/Shitter - Lightweight Android app for Mastodon
+https://github.com/TeamNewPipe/NewPipe - Privacy focused streaming frontend for Android
 
 https://github.com/TeamPiped/Piped - Privacy focused frontend for YouTube
 
 https://codeberg.org/Hyperpipe/Hyperpipe - Privacy focused frontend for YouTube Music
 
-https://github.com/TeamNewPipe/NewPipe - Privacy focused streaming frontend for Android
+https://codeberg.org/VnPower/PixivFE - Private frontend for Pixiv
 
 https://github.com/mendel5/alternative-front-ends - List of private frontends
 
@@ -461,13 +446,9 @@ https://github.com/digitalblossom/alternative-frontends - List of private fronte
 
 https://github.com/VSCodium/vscodium - VS Code without Microsoft
 
-https://github.com/boltgolt/howdy - Facial authentication for Linux
-
 https://github.com/PrivateBin/PrivateBin - Private alternative to pastebin
 
 https://gitlab.futo.org/keyboard/latinime - Android keyboard that doesn't spy
-
-https://github.com/TeamPiped/RYD-Proxy - non-logging proxy for Return YouTube Dislike API server
 
 https://github.com/searxng/searxng - Internet metasearch engine
 
@@ -479,11 +460,19 @@ https://github.com/LibrePhotos/librephotos - Self-hosted photo management servic
 
 https://github.com/photoprism/photoprism - AI-powered photos app for the Decentralized Web
 
-https://github.com/librespeed/speedtest - Libre internet speed test
+https://github.com/nuclearfog/Shitter - Lightweight Android app for Mastodon
 
 https://github.com/mollyim/mollyim-android - [Android] Hardened Signal app
 
 https://github.com/Chocobozzz/PeerTube - Decentralized video platform
+
+https://github.com/FlareSolverr/FlareSolverr - Proxy server to bypass Cloudflare protection
+
+https://github.com/Rafficer/linux-cli-community - Linux command-line client for ProtonVPN
+
+https://github.com/boltgolt/howdy - Facial authentication for Linux
+
+https://github.com/TeamPiped/RYD-Proxy - non-logging proxy for Return YouTube Dislike API server
 
 
 ### Productivity
@@ -529,43 +518,47 @@ https://github.com/linagora/tmail-flutter - Mobile email app
 ### Media
 https://github.com/mpv-player/mpv - Extensive media player
 
+https://github.com/mpvnet-player/mpv.net - mpv with a GUI for Windows
+
+https://github.com/marin-m/SongRec - Shazam client for Linux
+
 https://github.com/bundit/kord -   Spotify, Soundcloud, and YouTube in one site
+
+https://github.com/th-ch/youtube-music - YouTube Music client with plugins
 
 https://github.com/KRTirtho/spotube - Cross-platform Spotify client that doesn't require Premium
 
 https://github.com/cococry/lyssa - Aestethic, minimal, suckless music player
 
-https://github.com/th-ch/youtube-music - YouTube Music client with plugins
-
 https://github.com/StefanLobbenmeier/youtube-dl-gui - YouTube downloader
 
 https://github.com/nathom/streamrip - Music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 
-https://github.com/marin-m/SongRec - Shazam client for Linux
-
 https://github.com/staniel359/muffon/ - Multi-source music streaming + discovery client
 
-https://github.com/zotify-dev/zotify - Music and podcast downloader.
+https://github.com/zotify-dev/zotify - Music and podcast downloader
 
-https://github.com/metabrainz/listenbrainz-server - Server for the ListenBrainz project, Last.fm alternative
+https://github.com/nukeop/nuclear - Streaming music player that finds free music for you
+
+https://github.com/metabrainz/listenbrainz-server - Server for ListenBrainz, Last.fm alternative
 
 https://github.com/FoxxMD/multi-scrobbler - Scrobble plays from multiple sources to multiple clients
 
 https://github.com/krateng/maloja - Self-hosted music scrobble database
 
-https://github.com/streamlink/streamlink-twitch-gui - Multi-platform Twitch.tv browser for Streamlink
+https://github.com/streamlink/streamlink-twitch-gui - Multi-platform twitch.tv browser for Streamlink
 
 https://github.com/d2phap/ImageGlass - Windows image viewer
 
 https://github.com/easymodo/qimgv - Cross-platform image viewer
 
-https://github.com/nukeop/nuclear - Streaming music player that finds free music for you
-
 
 ### Android
 https://github.com/breezy-weather/breezy-weather - Weather app 
 
-https://github.com/davidhealey/waistline - Calorie counter app 
+https://github.com/GrapheneOS/hardened_malloc - Privacy and security focused OS
+
+https://github.com/LineageOS/android - Alternate Android OS
 
 https://gitlab.com/fdroid/fdroidclient - Client for [F-Droid](https://f-droid.org), a Free Software repo system
 
@@ -577,80 +570,88 @@ https://github.com/Etar-Group/Etar-Calendar - Calendar app
 
 https://github.com/mhss1/MyBrain - All-in-one productivity app
 
-https://github.com/LineageOS/android - Alternate Android OS
-
-https://github.com/GrapheneOS/hardened_malloc - Privacy and security focused OS
-
 https://github.com/LawnchairLauncher/lawnchair - Material You launcher
 
 https://github.com/DroidWorksStudio/mLauncher - Minimal Launcher app
 
 https://github.com/ImranR98/Obtainium - Get app updates straight from the source
 
+https://github.com/davidhealey/waistline - Calorie counter app 
+
 
 ### iOS
-https://github.com/hbang/NewTerm - Terminal emulator
+https://github.com/khanhduytran0/LiveContainer - Run iOS apps in containers without installing it
 
-https://github.com/straight-tamago/misaka - iOS & tvOS customisation tool for KFD & MDC
+https://github.com/SideStore/SideStore - AltStore alternative to sideload without a PC (iOS 14+)
 
-https://github.com/opa334/TrollStore - Jailed iOS app that can install IPAs permanently
+https://github.com/opa334/TrollStore - Jailed iOS app that can install IPAs permanently (iOS 14-16.6.1, 17.0)
 
 https://github.com/swaggyP36000/TrollStore-IPAs - TrollStore IPAs
 
+https://github.com/c22dev/Geranium - Multi-purpose TrollStore app
+
 https://github.com/opa334/Dopamine Semi-untethered jailbreak for iOS 15 and 16
+
+https://github.com/itsjunetime/smserver - [JB] Send texts & attachments from browser
 
 https://github.com/0xilis/LetMePass - [Tweak] Bypasses YouTube's version alert
 
 https://github.com/LNSSPsd/duckoff - [Tweak] Unleash iOS keyboard to suggest/swipe-type swear words
 
-https://github.com/itsjunetime/smserver - [JB] Send texts & attachments from browser
+https://github.com/hbang/NewTerm - Terminal emulator
 
-https://github.com/c22dev/Geranium - Multi-purpose TrollStore app
+https://github.com/straight-tamago/misaka - iOS & tvOS customisation tool for KFD & MDC
 
 https://github.com/PlayCover/PlayCover - Run iOS apps and games on Apple Silicon Macs
 
-https://github.com/khanhduytran0/LiveContainer - Run iOS apps in containers without installing it
-
 https://github.com/Dadoum/Sideloader - Cross-platform iOS app sideloader
-
-https://github.com/BlueBubblesApp/bluebubbles-app - "Cross-platform" ecosystem of apps unifying iMessage
 
 https://github.com/utmapp/UTM - Virtual machine for iOS and macOS 
 
-https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy
+https://github.com/BlueBubblesApp/bluebubbles-app - "Cross-platform" ecosystem of apps unifying iMessage
 
 https://github.com/iKenndac/Tofu - 2FA app
 
+https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy
 
 
 ### Windows
 https://github.com/ChrisTitusTech/winutil - Windows All-in-one utility
 
-https://github.com/bmrf/tron - Automated Windows cleanup script
-
 https://github.com/massgravel/Microsoft-Activation-Scripts/ - Windows activation scripts
 
 https://github.com/Open-Shell/Open-Shell-Menu - Windows Start menu replacement
+
+https://github.com/fxsound2/fxsound-app - Advanced audio effect engine
+
+https://github.com/bmrf/tron - Automated Windows cleanup script
 
 https://github.com/miniant-git/REAL - Reduce audio latency on Windows
 
 https://github.com/sabrogden/Ditto - Windows clipboard extension
 
-https://github.com/fxsound2/fxsound-app - Advanced audio effect engine
-
+https://github.com/jon-mil-92/DisplayHotKeys - Apply display profiles using hotkeys for WIndows
 
 ### Linux
-https://github.com/jesusferm/Nautilus-43-BackSpace - Reenable backspace bind for Nautilus
+https://github.com/autokey/autokey - Scriptable desktop automation utility, alternative to AHK
 
 https://github.com/flightlessmango/MangoHud - Application overlay for monitoring resources
 
+https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet - List of supported games w/ anticheat
+
 https://github.com/qarmin/czkawka - Remove unnecessary files from your computer.
 
-https://github.com/apernet/OpenGFW - Great Firewall of China 
+https://github.com/dimtpap/coppwr - GUI tool for PipeWire management
 
-https://github.com/gdzx/audiosource - Use an Android device as a USB microphone
+https://github.com/wwmm/easyeffects - PipeWIre audio effect manager
 
-https://github.com/TheAssassin/AppImageLauncher -  AppImage integration
+https://github.com/sezanzeb/input-remapper - Input device remapping tool
+
+https://github.com/trigg/Discover - Discord overlay
+
+https://github.com/JoseExposito/touchegg - Multi-touch gesture recognizer
+
+https://github.com/TheAssassin/AppImageLauncher - AppImage integration
 
 https://github.com/pop-os/cosmic-epoch - Cosmic DE
 
@@ -660,27 +661,31 @@ https://github.com/swaywm/sway/ - i3-compatible Wayland WM
 
 https://codeberg.org/river/river - Wayland tiling WM
 
+https://github.com/YaLTeR/niri - Scrollable-tiling Wayland WM
+
 https://github.com/cococry/ragnar - X tiling window manager
 
 https://github.com/dunst-project/dunst - Customizable notification daemon
 
 https://github.com/emersion/mako -  Wayland notification daemon
 
+https://codeberg.org/dnkl/yambar - Lightweight status bar for Wayland and X11
+
+https://github.com/polybar/polybar - Customizable status bar
+
 https://github.com/phw/peek - Simple animated GIF screen recorder
 
-https://github.com/mijorus/collector - Drag multiple files and folders to "hold"
+https://github.com/davatorium/rofi - Application launcher 
+
+https://github.com/fdw/rofimoji - Emoji picker for rofi
+
+https://github.com/xrelkd/clipcat - Clipboard manager
 
 https://github.com/mijorus/smile -  Emoji picker
 
 https://github.com/jtheoof/swappy - Wayland native snapshot editing tool
 
-https://github.com/siddhpant/broo - Connect your phone as microphone wirelessly
-
-https://github.com/Twins-Divyanshu-Sharma/Hex - Hexagonal application launcher
-
-https://github.com/YaLTeR/niri - Scrollable-tiling Wayland WM
-
-https://github.com/chubin/cheat.sh - Cheatsheet for commands
+https://github.com/jesusferm/Nautilus-43-BackSpace - Reenable backspace bind for Nautilus
 
 https://gitlab.com/bitseater/meteo - Forecast application using OpenWeatherMap API
 
@@ -688,25 +693,23 @@ https://gitlab.com/chinstrap/gammastep - Adjust screen color temperature
 
 https://github.com/lucianodato/noise-repellent - Plugins for broadband noise reduction
 
-https://github.com/sezanzeb/input-remapper - Input device remapping tool
-
-https://github.com/trigg/Discover - Discord overlay
-
-https://github.com/JoseExposito/touchegg - Multi-touch gesture recognizer
-
-https://github.com/xrelkd/clipcat - Clipboard manager
-
-https://github.com/edisionnano/QDiskInfo - CrystalDiskInfo alternative
-
-https://github.com/autokey/autokey - Scriptable desktop automation utility, alternative to AHK
-
-https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet - List of supported games w/ anticheat
-
-https://github.com/dimtpap/coppwr - GUI tool for PipeWire management
-
 https://github.com/winapps-org/winapps - Run Windows apps like they are native
 
 https://github.com/euclio/fm - Simple GTK4 file manager
+
+https://github.com/chubin/cheat.sh - Cheatsheet for commands
+
+https://github.com/edisionnano/QDiskInfo - CrystalDiskInfo alternative
+
+https://github.com/gdzx/audiosource - Use an Android device as a USB microphone
+
+https://github.com/apernet/OpenGFW - Great Firewall of China 
+
+https://github.com/siddhpant/broo - Connect your phone as microphone wirelessly
+
+https://github.com/Twins-Divyanshu-Sharma/Hex - Hexagonal application launcher
+
+https://github.com/mijorus/collector - Drag multiple files and folders to "hold"
 
 
 ### Useful
@@ -714,63 +717,29 @@ https://github.com/mifi/lossless-cut - Lossless video cutting tool
 
 https://github.com/HandBrake/HandBrake - Video transcoder
 
-https://github.com/zws-im/zws - Zero width link shortener
+https://github.com/ponchio/untrunc - Restore damaged video files
 
-https://github.com/dubinc/dub - Link shortener and management
-
-https://github.com/kurolabs/stegcloak - Create hidden messages
+https://github.com/ShareX/ShareX - Screen capture tool for Windows
 
 https://github.com/diced/zipline - ShareX/file upload server
 
-https://github.com/ActivityWatch/activitywatch - Automated time tracker of activity
-
-https://github.com/rustdesk/rustdesk - Remote desktop application
-
-https://github.com/dail8859/NotepadNext - Cross-platform, reimplementation of Notepad++
-
-https://github.com/H-M-H/Weylus - Use tablet as graphic tablet/touch screen
-
-[https://github.com/Sangwan5688/BlackHole](https://web.archive.org/web/20240312134329/https://github.com/Sangwan5688/BlackHole) - Music player app
-
-https://github.com/Slackadays/Clipboard - Smart clipboard manager
+https://github.com/flameshot-org/flameshot - Cross-platform screenshot tool
 
 https://github.com/files-community/Files - File manager for Windows
 
 https://github.com/localsend/localsend - Cross-platform alternative to AirDrop
 
-https://github.com/Jacalz/rymdport - Cross-platform file sharing between devices
-
-https://github.com/Lenochxd/WebDeck - Web-based StreamDeck alternative
-
-https://github.com/pavlobu/deskreen -  Turn web browser into a secondary screen
-
-https://github.com/builtree/handwrite - Generate a custom font based on your handwriting sample
-
-https://github.com/kando-menu/kando - Cross-platform pie menu launcher
-
-https://github.com/Flow-Launcher/Flow.Launcher - App launcher for Windows
-
-https://github.com/ShareX/ShareX - Screen capture tool for Windows
-
-https://github.com/flameshot-org/flameshot - Cross-platform screenshot tool
-
-https://github.com/geekuillaume/soundsync - Virtual cables between any audio source
-
-https://github.com/netrisdotme/netris - GeForce NOW alternative with Stadia's social features
-
-https://github.com/ponchio/untrunc - Restore damaged video files
-
-https://github.com/CorentinTh/it-tools - Collection of handy online tools for developers
-
 https://codeberg.org/wolfree - WolframAlpha but free
 
 https://github.com/imputnet/cobalt - Media downloader
 
-https://github.com/caoyue/WindowResizer - Save/restore windows size/position with hotkeys
+https://github.com/rustdesk/rustdesk - Remote desktop application
 
-https://github.com/jon-mil-92/DisplayHotKeys - Apply display profiles using hotkeys for WIndows
+https://github.com/GyulyVGC/sniffnet - Cross-platform network traffic monitor
 
-https://github.com/didier/phone-as-webcam - Use phone camera as a webcam via OBS Virtual Camera
+https://github.com/dail8859/NotepadNext - Cross-platform reimplementation of Notepad++
+
+https://github.com/kando-menu/kando - Cross-platform pie menu launcher
 
 https://github.com/CapSoftware/Cap - Screen capture sharing
 
@@ -778,9 +747,47 @@ https://github.com/LizardByte/Sunshine - Self-hosted game stream host for Moonli
 
 https://github.com/pbatard/rufus - USB formatting utility
 
-https://github.com/nextcloud/server - (Self-hosted) Cloud storage service
+https://github.com/zws-im/zws - Zero width link shortener
+
+https://github.com/dubinc/dub - Link shortener and management
+
+https://github.com/ActivityWatch/activitywatch - Automated activity time tracker
+
+https://github.com/Soundux/Soundux - Cross-platform soundboard
+
+https://github.com/kurolabs/stegcloak - Create hidden messages
+
+https://github.com/H-M-H/Weylus - Use tablet as graphic tablet/touch screen
+
+https://github.com/Flow-Launcher/Flow.Launcher - App launcher for Windows
+
+[https://github.com/Sangwan5688/BlackHole](https://web.archive.org/web/20240312134329/https://github.com/Sangwan5688/BlackHole) - Music player app
+
+https://github.com/RoanH/KeysPerSecond - Keys per second counter overlay
+
+https://github.com/deepjyoti30/ytmdl - Download music from YouTube attached with metadata
+
+https://github.com/deepjyoti30/ytmdl-web-v2 - Ytmdl web app version
+
+https://github.com/Lenochxd/WebDeck - Web-based StreamDeck alternative
+
+https://github.com/pavlobu/deskreen -  Turn web browser into a secondary screen
+
+https://github.com/Slackadays/Clipboard - Smart clipboard manager
+
+https://github.com/builtree/handwrite - Generate a custom font based on your handwriting sample
+
+https://github.com/Jacalz/rymdport - Cross-platform file sharing between devices
+
+https://github.com/netrisdotme/netris - GeForce NOW alternative with Stadia's social features
+
+https://github.com/CorentinTh/it-tools - Collection of handy online tools
 
 https://github.com/DevToys-app/DevToys - Cross-platform bundle of tools for doing quick tasks
+
+https://github.com/didier/phone-as-webcam - Use phone camera as a webcam via OBS Virtual Camera
+
+https://github.com/nextcloud/server - (Self-hosted) Cloud storage service
 
 https://github.com/bleachbit/bleachbit - System cleaner for Windows and Linux
 
@@ -792,17 +799,16 @@ https://github.com/peazip/PeaZip - Cross-platform file and archive manager
 
 https://github.com/ventoy/Ventoy - Bootable USB solution
 
-https://github.com/GyulyVGC/sniffnet - Cross-platform network traffic monitor
-
 https://github.com/organicmaps/organicmaps - Offline maps app using OpenStreetMap
+
+https://github.com/caoyue/WindowResizer - Save/restore windows size/position with hotkeys
 
 https://github.com/upscayl/upscayl - Cross-platform AI image upscaler
 
 https://github.com/spipm/Depix - Recovers passwords from pixelized screenshots
 
-https://github.com/deepjyoti30/ytmdl - Download music from YouTube attached with metadata
+https://github.com/geekuillaume/soundsync - Virtual cables between any audio source
 
-https://github.com/deepjyoti30/ytmdl-web-v2 - Ytmdl web app version
 
 ### Other
 https://github.com/aelew/devterms - Crowdsourced dictionary for developers
@@ -815,19 +821,11 @@ https://github.com/TNTwise/REAL-Video-Enhancer - Interpolate and upscale videos 
 
 https://github.com/vosen/ZLUDA - CUDA on AMD GPUs
 
-https://github.com/CallumBeaney/people -  CLI tool for tracking days since you made contact with people
-
 https://github.com/Babyhamsta/Aimmy - AI based aimbot lmao
-
-https://github.com/ryanweideman/3d-terminal-renderer - 3D graphics engine for the terminal
 
 https://github.com/SAWARATSUKI/KawaiiLogos - Repo for all of the kawaii logos made by Sawaratsuki
 
 https://github.com/collinalexbell/HackMatrix - 3D Linux desktop environment
-
-https://github.com/RishiBakshii/Baatchit-Modern-Chat-Application - Modern real-time chat app
-
-https://github.com/junkdog/tachyonfx - Shader-like effects library for ratatui applications
 
 https://github.com/alexkirsz/dispatch - Combine internet connections
 
