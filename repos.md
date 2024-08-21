@@ -620,6 +620,12 @@ https://github.com/mpv-player/mpv - Extensive media player
 
 https://github.com/mpvnet-player/mpv.net - mpv with a GUI for Windows
 
+https://github.com/digimezzo/dopamine - Cross-platform music player
+
+https://github.com/DeaDBeeF-Player/deadbeef -  Flexible cross-platform music player
+
+https://github.com/fooyin/fooyin - Customizable music player for Linux
+
 https://github.com/marin-m/SongRec - Shazam client for Linux
 
 https://github.com/bundit/kord -   Spotify, Soundcloud, and YouTube in one site
