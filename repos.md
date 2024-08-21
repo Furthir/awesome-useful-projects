@@ -48,9 +48,6 @@
 
 
 
-
-
-
 ### Games
 https://github.com/PojavLauncherTeam/PojavLauncher - [Android] Minecraft Java Edition launcher
 
@@ -175,7 +172,6 @@ https://github.com/mikeroyal/Pop_OS-Guide - Guide for starting on Pop!\_OS
 https://github.com/avidseeker/awesome-areweyet - Current adoption status of various technologies
 
 
-
 ### **Command Line Tools**
 https://github.com/lhvy/pipes-rs - Pipes
 
@@ -213,6 +209,7 @@ https://github.com/MohamedElashri/gh-cp - GitHub CLI extension to copy files wit
 
 https://github.com/TheZoraiz/ascii-image-converter - Convert images to ascii art
 
+
 ### CLI/TUI Apps
 https://github.com/neovim/neovim - Better vim
 
@@ -237,6 +234,8 @@ https://github.com/ncmpcpp/ncmpcpp - ncurses based MPD client
 https://github.com/pystardust/ani-cli - CLI app to browse and play anime
 
 https://github.com/ravachol/kew - Music player
+
+
 ### Oh-My
 https://github.com/JanDeDobbeleer/oh-my-posh
 
@@ -484,6 +483,9 @@ https://github.com/librespeed/speedtest - Libre internet speed test
 
 https://github.com/mollyim/mollyim-android - [Android] Hardened Signal app
 
+https://github.com/Chocobozzz/PeerTube - Decentralized video platform
+
+
 ### Productivity
 https://github.com/mattermost/focalboard - Project management tool alternative to Trello/Notion/Asana
 
@@ -520,6 +522,8 @@ https://github.com/ONLYOFFICE/DocumentServer - Collaborative online office suite
 https://github.com/cryptpad/cryptpad - E2EE Collaborative office suite
 
 https://github.com/SwitchbackTech/compass - Calendar app
+
+https://github.com/linagora/tmail-flutter - Mobile email app
 
 
 ### Media
@@ -567,7 +571,11 @@ https://gitlab.com/fdroid/fdroidclient - Client for [F-Droid](https://f-droid.or
 
 https://github.com/FossifyOrg/File-Manager - File manager
 
+https://github.com/zhanghai/MaterialFiles - Material You file manager
+
 https://github.com/Etar-Group/Etar-Calendar - Calendar app
+
+https://github.com/mhss1/MyBrain - All-in-one productivity app
 
 https://github.com/LineageOS/android - Alternate Android OS
 
@@ -627,6 +635,8 @@ https://github.com/Open-Shell/Open-Shell-Menu - Windows Start menu replacement
 https://github.com/miniant-git/REAL - Reduce audio latency on Windows
 
 https://github.com/sabrogden/Ditto - Windows clipboard extension
+
+https://github.com/fxsound2/fxsound-app - Advanced audio effect engine
 
 
 ### Linux
@@ -790,6 +800,10 @@ https://github.com/upscayl/upscayl - Cross-platform AI image upscaler
 
 https://github.com/spipm/Depix - Recovers passwords from pixelized screenshots
 
+https://github.com/deepjyoti30/ytmdl - Download music from YouTube attached with metadata
+
+https://github.com/deepjyoti30/ytmdl-web-v2 - Ytmdl web app version
+
 ### Other
 https://github.com/aelew/devterms - Crowdsourced dictionary for developers
 
@@ -850,3 +864,9 @@ https://github.com/HeyPuter/puter - Internet OS
 https://github.com/AsteroidOS/asteroid - Alternate smartwatch OS
 
 https://github.com/jlevy/the-art-of-command-line - Master the command line
+
+https://github.com/andersonkrs/malheatmap - MyAnimeList activity heatmap
+
+https://github.com/IdreesInc/Monocraft - Monospaced Minecraft font
+
+https://github.com/OptiKey/OptiKey - Helps Motor Neuron Disease patients interact with their PC
