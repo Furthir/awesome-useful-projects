@@ -628,7 +628,7 @@ https://github.com/fooyin/fooyin - Customizable music player for Linux
 
 https://github.com/marin-m/SongRec - Shazam client for Linux
 
-https://github.com/bundit/kord -   Spotify, Soundcloud, and YouTube in one site
+https://github.com/bundit/kord - Spotify, Soundcloud, and YouTube in one site
 
 https://github.com/th-ch/youtube-music - YouTube Music client with plugins
 
