@@ -10,8 +10,8 @@ https://fmhy.net/ - FreeMediaHeckYeah
 
 https://sober.vinegarhq.org - Roblox on Linux
 
-https://prism-break.org/en/
+https://prism-break.org/en/ - Privacy/security-oriented software recommendations
 
-https://switching.software/
+https://switching.software/ - Ethica and privacy-conscious alternatives
 
-https://massgrave.dev
+https://massgrave.dev - Microsoft Activation Scripts
