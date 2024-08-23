@@ -43,6 +43,8 @@ https://github.com/files-community/Files - Modern file manager for Windows
 
 https://github.com/localsend/localsend - Cross-platform alternative to AirDrop
 
+https://github.com/timvisee/send - Quick encrypted file sharing
+
 https://github.com/FDH2/UxPlay - Cross-platform AirPlay server
 
 https://codeberg.org/wolfree - WolframAlpha but free
@@ -279,6 +281,8 @@ https://github.com/aristocratos/btop - System resource monitoring
 
 https://github.com/ad-oliviero/uwufetch - neofetch but uwu
 
+https://github.com/fastfetch-cli/fastfetch - neofetch but fast, maintained, and more customizable
+
 https://github.com/nvbn/thefuck - Corrects your previous command
 
 https://github.com/hisbaan/didyoumean - Corrects your previous command
@@ -302,6 +306,8 @@ https://github.com/Everduin94/better-commits - Better commits following the conv
 https://github.com/MohamedElashri/gh-cp - GitHub CLI extension to copy files without cloning
 
 https://github.com/TheZoraiz/ascii-image-converter - Convert images to ascii art
+
+https://gitlab.com/timvisee/ffsend - share files from the command line using [Send](https://github.com/timvisee/send)
 
 
 ### CLI/TUI Apps
@@ -428,6 +434,8 @@ https://github.com/violentmonkey/violentmonkey - Userscript manager
 
 https://github.com/openstyles/stylus - Userstyles manager
 
+https://gitlab.com/ClearURLs/ClearUrls - Remove tracking elements from URLs
+
 https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated - Auto-bypass link shorteners
 
 https://github.com/bpc-clone/bypass-paywalls-chrome-clean - [Chrome] Bypass paywalls on sites (articles) 
@@ -534,6 +542,8 @@ https://github.com/paulmillr/encrypted-dns - DNS over HTTPS config profiles for 
 
 https://github.com/mullvad/dns-blocklists - DNS Blocklists
 
+https://github.com/cryptomator/cryptomator - Cross-platform file encryption
+
 https://github.com/FreeTubeApp/FreeTube - Privacy (and tweaked) client for YouTube
 
 https://github.com/undergroundwires/privacy.sexy - Privacy configurations for desktop platforms
@@ -552,9 +562,9 @@ https://github.com/mendel5/alternative-front-ends - List of private frontends
 
 https://github.com/digitalblossom/alternative-frontends - List of private frontends
 
-https://github.com/VSCodium/vscodium - VS Code without Microsoft
-
 https://github.com/PrivateBin/PrivateBin - Private alternative to pastebin
+
+https://github.com/VSCodium/vscodium - VS Code without Microsoft
 
 https://gitlab.futo.org/keyboard/latinime - Android keyboard that doesn't spy
 
@@ -794,6 +804,8 @@ https://codeberg.org/dnkl/yambar - Lightweight status bar for Wayland and X11
 https://github.com/polybar/polybar - Customizable status bar
 
 https://github.com/phw/peek - Simple animated GIF screen recorder
+
+https://gitlab.com/screenkey/screenkey - Screencast tool to display your keys
 
 https://github.com/davatorium/rofi - Application launcher 
 
