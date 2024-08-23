@@ -329,11 +329,11 @@ https://github.com/ravachol/kew - Music player
 
 
 ### Oh-My
-https://github.com/JanDeDobbeleer/oh-my-posh
+https://github.com/JanDeDobbeleer/oh-my-posh - Cross-shell prompt
 
 https://github.com/oh-my-fish/oh-my-fish
 
-https://github.com/ohmybash/oh-my-bash
+https://github.com/ohmybash/oh-my-bash 
 
 https://github.com/ohmyzsh/ohmyzsh/
 
