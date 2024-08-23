@@ -79,6 +79,8 @@ https://github.com/H-M-H/Weylus - Use tablet as graphic tablet/touch screen
 
 https://github.com/Flow-Launcher/Flow.Launcher - App launcher for Windows
 
+https://github.com/project-gauntlet/gauntlet - Cross-platform application launcher
+
 https://github.com/RoanH/KeysPerSecond - Keys per second counter overlay
 
 https://github.com/deepjyoti30/ytmdl - Download music from YouTube attached with metadata
@@ -864,8 +866,6 @@ https://github.com/is-a-dev/register -  '.is-a.dev' subdomain
 https://github.com/wdhdev/free-for-life -  Huge amount of services that are free
 
 https://github.com/EmperorEntropy/PaletteSnap - Color palette generator
-
-https://github.com/project-gauntlet/gauntlet - Cross-platform application launcher
 
 https://github.com/HeyPuter/puter - Internet OS
 
