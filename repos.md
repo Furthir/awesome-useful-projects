@@ -307,27 +307,29 @@ https://github.com/TheZoraiz/ascii-image-converter - Convert images to ascii art
 ### CLI/TUI Apps
 https://github.com/neovim/neovim - Better vim
 
-https://github.com/kraanzu/smassh - Typing test
-
-https://github.com/maaslalani/typer - Typing test
-
-https://github.com/Samyak2/toipe - Typing test
-
 https://github.com/itsjunetime/tdf - TUI-based PDF viewer
 
 https://github.com/slyeet03/spoify - Terminal-based Spotify 
 
 https://github.com/hrkfdn/ncspot - ncurses Spotify
 
+https://github.com/ncmpcpp/ncmpcpp - ncurses based MPD client
+
+https://github.com/cmus/cmus - Music player
+
+https://github.com/ravachol/kew - Music player
+
+https://github.com/pystardust/ani-cli - Browse and play anime
+
 https://github.com/HxX2/todocli - Todo list manager
 
 https://github.com/abeleinin/goki - Spaced repetition flashcard tool
 
-https://github.com/ncmpcpp/ncmpcpp - ncurses based MPD client
+https://github.com/kraanzu/smassh - Typing test
 
-https://github.com/pystardust/ani-cli - Browse and play anime
+https://github.com/maaslalani/typer - Typing test
 
-https://github.com/ravachol/kew - Music player
+https://github.com/Samyak2/toipe - Typing test
 
 
 ### Oh-My
@@ -674,6 +676,8 @@ https://github.com/LineageOS/android - Alternate Android OS
 
 https://gitlab.com/fdroid/fdroidclient - Client for [F-Droid](https://f-droid.org), a Free Software repo system
 
+https://gitlab.com/AuroraOSS/AuroraStore - Alternate Google Play store replacement
+
 https://github.com/FossifyOrg/File-Manager - File manager
 
 https://github.com/zhanghai/MaterialFiles - Material You file manager
@@ -744,14 +748,18 @@ https://github.com/sabrogden/Ditto - Windows clipboard extension
 
 https://github.com/jon-mil-92/DisplayHotKeys - Apply display profiles using hotkeys for WIndows
 
+https://github.com/ntdevlabs/tiny11builder - Script to build a trimmed-down Win11 image
+
 ### Linux
-https://github.com/autokey/autokey - Scriptable desktop automation utility, alternative to AHK
+https://github.com/autokey/autokey - Scriptable automation utility, alternative to AHK
 
 https://github.com/flightlessmango/MangoHud - Application overlay for monitoring resources
 
 https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet - List of supported games w/ anticheat
 
-https://github.com/qarmin/czkawka - Remove unnecessary files from your computer.
+https://github.com/qarmin/czkawka - Remove unnecessary files from your computer
+
+https://gitlab.com/corectrl/corectrl - Profile based system control utility
 
 https://github.com/dimtpap/coppwr - GUI tool for PipeWire management
 
