@@ -323,7 +323,7 @@ https://github.com/abeleinin/goki - Spaced repetition flashcard tool
 
 https://github.com/ncmpcpp/ncmpcpp - ncurses based MPD client
 
-https://github.com/pystardust/ani-cli - CLI app to browse and play anime
+https://github.com/pystardust/ani-cli - Browse and play anime
 
 https://github.com/ravachol/kew - Music player
 
