@@ -91,6 +91,8 @@ https://github.com/deepjyoti30/ytmdl-web-v2 - Ytmdl web app version
 
 https://github.com/Lenochxd/WebDeck - Web-based StreamDeck alternative
 
+https://github.com/JamesCJ60/Universal-x86-Tuning-Utility -  CPU/GPU tuning utility for Windows
+
 https://github.com/nextcloud/server - (Self-hosted) Cloud storage service
 
 https://github.com/ventoy/Ventoy - Bootable USB solution
@@ -822,6 +824,8 @@ https://github.com/jesusferm/Nautilus-43-BackSpace - Reenable backspace bind for
 https://gitlab.com/bitseater/meteo - Forecast application using OpenWeatherMap API
 
 https://gitlab.com/chinstrap/gammastep - Adjust screen color temperature 
+
+https://gitlab.com/coolercontrol/coolercontrol - Cooling device control
 
 https://github.com/lucianodato/noise-repellent - Plugins for broadband noise reduction
 
