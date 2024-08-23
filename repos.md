@@ -43,6 +43,8 @@ https://github.com/files-community/Files - Modern file manager for Windows
 
 https://github.com/localsend/localsend - Cross-platform alternative to AirDrop
 
+https://github.com/FDH2/UxPlay - Cross-platform AirPlay server
+
 https://codeberg.org/wolfree - WolframAlpha but free
 
 https://github.com/imputnet/cobalt - Media downloader
@@ -50,6 +52,8 @@ https://github.com/imputnet/cobalt - Media downloader
 https://github.com/rustdesk/rustdesk - Remote desktop application
 
 https://github.com/GyulyVGC/sniffnet - Cross-platform network traffic monitor
+
+https://github.com/notepad-plus-plus/notepad-plus-plus - Extensive text editor for Windows
 
 https://github.com/dail8859/NotepadNext - Cross-platform reimplementation of Notepad++
 
@@ -75,8 +79,6 @@ https://github.com/H-M-H/Weylus - Use tablet as graphic tablet/touch screen
 
 https://github.com/Flow-Launcher/Flow.Launcher - App launcher for Windows
 
-[https://github.com/Sangwan5688/BlackHole](https://web.archive.org/web/20240312134329/https://github.com/Sangwan5688/BlackHole) - Music player app
-
 https://github.com/RoanH/KeysPerSecond - Keys per second counter overlay
 
 https://github.com/deepjyoti30/ytmdl - Download music from YouTube attached with metadata
@@ -85,35 +87,35 @@ https://github.com/deepjyoti30/ytmdl-web-v2 - Ytmdl web app version
 
 https://github.com/Lenochxd/WebDeck - Web-based StreamDeck alternative
 
-https://github.com/pavlobu/deskreen -  Turn web browser into a secondary screen
-
-https://github.com/Slackadays/Clipboard - Smart clipboard manager
-
-https://github.com/builtree/handwrite - Generate a custom font based on your handwriting sample
-
-https://github.com/Jacalz/rymdport - Cross-platform file sharing between devices
-
-https://github.com/netrisdotme/netris - GeForce NOW alternative with Stadia's social features
-
-https://github.com/CorentinTh/it-tools - Collection of handy online tools
-
-https://github.com/DevToys-app/DevToys - Cross-platform bundle of tools for doing quick tasks
-
-https://github.com/didier/phone-as-webcam - Use phone camera as a webcam via OBS Virtual Camera
-
 https://github.com/nextcloud/server - (Self-hosted) Cloud storage service
 
-https://github.com/bleachbit/bleachbit - System cleaner for Windows and Linux
+https://github.com/ventoy/Ventoy - Bootable USB solution
+
+https://github.com/organicmaps/organicmaps - Offline maps app using OpenStreetMap
 
 https://github.com/t4rra/CCStopper -  Stops Adobe's background apps
 
 https://github.com/signalapp - Cross-platform private messenger
 
+https://github.com/pavlobu/deskreen -  Turn web browser into a secondary screen
+
+https://github.com/CorentinTh/it-tools - Collection of handy online tools
+
+https://github.com/DevToys-app/DevToys - Cross-platform bundle of tools for doing quick tasks
+
+https://github.com/Slackadays/Clipboard - Smart clipboard manager
+
+[https://github.com/Sangwan5688/BlackHole](https://web.archive.org/web/20240312134329/https://github.com/Sangwan5688/BlackHole) - Music player app
+
+https://github.com/builtree/handwrite - Generate a custom font based on your handwriting sample
+
+https://github.com/Jacalz/rymdport - Cross-platform file sharing between devices
+
+https://github.com/didier/phone-as-webcam - Use phone camera as a webcam via OBS Virtual Camera
+
+https://github.com/bleachbit/bleachbit - System cleaner for Windows and Linux
+
 https://github.com/peazip/PeaZip - Cross-platform file and archive manager
-
-https://github.com/ventoy/Ventoy - Bootable USB solution
-
-https://github.com/organicmaps/organicmaps - Offline maps app using OpenStreetMap
 
 https://github.com/caoyue/WindowResizer - Save/restore windows size/position with hotkeys (Windows)
 
@@ -164,6 +166,8 @@ https://github.com/KotRikD/tosu - osu! overlays
 https://github.com/nzbasic/batch-beatmap-downloader - Batch map downloader for osu!
 
 https://github.com/Piotrekol/CollectionManager - osu! collection manager
+
+https://github.com/netrisdotme/netris - GeForce NOW alternative with Stadia's social features
 
 
 ### Backup/Sync
