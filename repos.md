@@ -16,7 +16,7 @@
 - [Download Managers/Torrenters](/repos.md#download-managerstorrenters) - Download managers
 - [Creative](/repos.md#creative) - Creative programs and suites
 - [Privacy/Security](/repos.md#privacysecurity) - Projects focusing on maintaining users' privacy
-- [Productivity](/repos.md#productivity) - Producitivity apps
+- [Productivity](/repos.md#productivity) - Productivity apps
 - [Media](/repos.md#media) - Media related apps
 - [Android](/repos.md#Android) - Android specific projects
 - [iOS](/repos.md#iOS) - iOS specific projects
