@@ -801,6 +801,8 @@ https://github.com/dunst-project/dunst - Customizable notification daemon
 
 https://github.com/emersion/mako -  Wayland notification daemon
 
+https://github.com/LGFae/swww/ - Wayland wallpaper daemon
+
 https://codeberg.org/dnkl/yambar - Lightweight status bar for Wayland and X11
 
 https://github.com/polybar/polybar - Customizable status bar
