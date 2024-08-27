@@ -285,6 +285,8 @@ https://github.com/ad-oliviero/uwufetch - neofetch but uwu
 
 https://github.com/fastfetch-cli/fastfetch - neofetch but fast, maintained, and more customizable
 
+https://github.com/FabricSoul/gitfetch - neofetch but for git contributions
+
 https://github.com/nvbn/thefuck - Corrects your previous command
 
 https://github.com/hisbaan/didyoumean - Corrects your previous command
@@ -316,6 +318,8 @@ https://gitlab.com/timvisee/ffsend - share files from the command line using [Se
 https://github.com/neovim/neovim - Better vim
 
 https://github.com/itsjunetime/tdf - TUI-based PDF viewer
+
+https://github.com/jarun/nnn - Extensive file manager
 
 https://github.com/slyeet03/spoify - Terminal-based Spotify 
 
