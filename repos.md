@@ -333,6 +333,8 @@ https://github.com/ravachol/kew - Music player
 
 https://github.com/pystardust/ani-cli - Browse and play anime
 
+https://github.com/Achno/gocheat - Customizable terminal cheatsheet
+
 https://github.com/HxX2/todocli - Todo list manager
 
 https://github.com/abeleinin/goki - Spaced repetition flashcard tool
@@ -643,6 +645,10 @@ https://github.com/linagora/tmail-flutter - Mobile email app
 https://github.com/mpv-player/mpv - Extensive media player
 
 https://github.com/mpvnet-player/mpv.net - mpv with a GUI for Windows
+
+https://github.com/celluloid-player/celluloid - GTK frontend for mpv
+
+https://github.com/CogentRedTester/mpv-scripts - mpv scripts
 
 https://github.com/digimezzo/dopamine - Cross-platform music player
 
