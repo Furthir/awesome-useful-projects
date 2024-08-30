@@ -117,6 +117,8 @@ https://github.com/builtree/handwrite - Generate a custom font based on your han
 
 https://github.com/Jacalz/rymdport - Cross-platform file sharing between devices
 
+https://github.com/spel987/PolyUploader - Upload your files to different hosts
+
 https://github.com/didier/phone-as-webcam - Use phone camera as a webcam via OBS Virtual Camera
 
 https://github.com/bleachbit/bleachbit - System cleaner for Windows and Linux
@@ -816,6 +818,8 @@ https://github.com/LGFae/swww/ - Wayland wallpaper daemon
 https://codeberg.org/dnkl/yambar - Lightweight status bar for Wayland and X11
 
 https://github.com/polybar/polybar - Customizable status bar
+
+https://github.com/cr3eperall/dynisland - Apple Dynamic Island-like bar
 
 https://github.com/phw/peek - Simple animated GIF screen recorder
 
