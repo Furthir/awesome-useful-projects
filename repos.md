@@ -77,6 +77,8 @@ https://github.com/Soundux/Soundux - Cross-platform soundboard
 
 https://github.com/kurolabs/stegcloak - Create hidden messages
 
+https://github.com/AntiMicroX/antimicrox - Map keyboard and mouse to gamepad controls
+
 https://github.com/H-M-H/Weylus - Use tablet as graphic tablet/touch screen
 
 https://github.com/Flow-Launcher/Flow.Launcher - App launcher for Windows
