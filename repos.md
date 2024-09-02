@@ -456,6 +456,8 @@ https://github.com/bpc-clone/bypass-paywalls-firefox-clean - [Firefox] Bypass pa
 
 https://github.com/sblask-webextensions/webextension-skip-redirect - Skips directly to final URL
 
+https://github.com/wanhose/cookie-dialog-monster - Auto hides cookie consent dialogs
+
 https://codeberg.org/LibRedirect/browser_extension - Redirects popular sites to alternative frontends
 
 https://github.com/BrowserBoost/Extension - Various browser tweaks
