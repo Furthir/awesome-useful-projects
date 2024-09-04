@@ -305,13 +305,15 @@ https://github.com/nvbn/thefuck - Corrects your previous command
 
 https://github.com/hisbaan/didyoumean - Corrects your previous command
 
+https://github.com/Slackadays/Clipboard - Smart clipboard manager
+
 https://github.com/pacstall/pacstall - AUR-inspired package manager for Ubuntu
 
 https://github.com/tmux/tmux - Terminal multiplexer
 
-https://github.com/lsd-rs/lsd - Better ls
-
 https://github.com/dustinkirkland/byobu - Terminal multiplexer
+
+https://github.com/lsd-rs/lsd - Better ls
 
 https://github.com/paololazzari/play - Terminal playground
 

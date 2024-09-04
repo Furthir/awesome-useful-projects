@@ -22,29 +22,29 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 # Projects
 ## Jump To
 
-- [Useful](/repos.md#Useful) - Personal picks of very useful projects
-- [Games](/repos.md#Games) - Game related tools/projects
-- [Backup/Sync](/repos.md#backupsync) - Backup solutions and tools
-- [Customizations](/repos.md#Customizations) - Utilities for customizing/theming stuff
-- [Awesome Lists](/repos.md#awesome-lists) - Lists of useful resources
-- [Command Line Tools](/repos.md#command-line-tools) - Command Line Utilities
-- [CLI/TUI Apps](/repos.md#clitui-apps) - CLI/TUI based applications
-- [Oh-My](/repos.md#oh-my) - Customized shells 
-- [Peripherals](/repos.md#peripherals) - Programs to interact with your peripherals
-- [Modded](/repos.md#modded) - Modded applications and clients
-- [Mail](/repos.md#mail) - Email management
-- [Browsers](/repos.md#Browsers) - Browsers
-- [Browser Extensions/Scripts/Tools](/repos.md#browser-extensionsscriptstools) - Browser extensions
-- [Download Managers/Torrenters](/repos.md#download-managerstorrenters) - Download managers
-- [Creative](/repos.md#creative) - Creative programs and suites
-- [Privacy/Security](/repos.md#privacysecurity) - Projects focusing on maintaining users' privacy
-- [Productivity](/repos.md#productivity) - Productivity apps
-- [Media](/repos.md#media) - Media related apps
-- [Android](/repos.md#Android) - Android specific projects
-- [iOS](/repos.md#iOS) - iOS specific projects
-- [Windows](/repos.md#Windows) - Windows specific projects
-- [Linux](/repos.md#Linux) - Linux specific projects
-- [Other](/repos.md#Other) - Fun/interesting/miscellaneous projects
+- [Useful](/README.md#Useful) - Personal picks of very useful projects
+- [Games](/README.md#Games) - Game related tools/projects
+- [Backup/Sync](/README.md#backupsync) - Backup solutions and tools
+- [Customizations](/README.md#Customizations) - Utilities for customizing/theming stuff
+- [Awesome Lists](/README.md#awesome-lists) - Lists of useful resources
+- [Command Line Tools](/README.md#command-line-tools) - Command Line Utilities
+- [CLI/TUI Apps](/README.md#clitui-apps) - CLI/TUI based applications
+- [Oh-My](/README.md#oh-my) - Customized shells 
+- [Peripherals](/README.md#peripherals) - Programs to interact with your peripherals
+- [Modded](/README.md#modded) - Modded applications and clients
+- [Mail](/README.md#mail) - Email management
+- [Browsers](/README.md#Browsers) - Browsers
+- [Browser Extensions/Scripts/Tools](/README.md#browser-extensionsscriptstools) - Browser extensions
+- [Download Managers/Torrenters](/README.md#download-managerstorrenters) - Download managers
+- [Creative](/README.md#creative) - Creative programs and suites
+- [Privacy/Security](/README.md#privacysecurity) - Projects focusing on maintaining users' privacy
+- [Productivity](/README.md#productivity) - Productivity apps
+- [Media](/README.md#media) - Media related apps
+- [Android](/README.md#Android) - Android specific projects
+- [iOS](/README.md#iOS) - iOS specific projects
+- [Windows](/README.md#Windows) - Windows specific projects
+- [Linux](/README.md#Linux) - Linux specific projects
+- [Other](/README.md#Other) - Fun/interesting/miscellaneous projects
 
 
 
@@ -136,8 +136,6 @@ https://github.com/pavlobu/deskreen -  Turn web browser into a secondary screen
 https://github.com/CorentinTh/it-tools - Collection of handy online tools
 
 https://github.com/DevToys-app/DevToys - Cross-platform bundle of tools for doing quick tasks
-
-https://github.com/Slackadays/Clipboard - Smart clipboard manager
 
 [https://github.com/Sangwan5688/BlackHole](https://web.archive.org/web/20240312134329/https://github.com/Sangwan5688/BlackHole) - Music player app
 
@@ -331,9 +329,11 @@ https://github.com/pacstall/pacstall - AUR-inspired package manager for Ubuntu
 
 https://github.com/tmux/tmux - Terminal multiplexer
 
-https://github.com/lsd-rs/lsd - Better ls
-
 https://github.com/dustinkirkland/byobu - Terminal multiplexer
+
+https://github.com/Slackadays/Clipboard - Smart clipboard manager
+
+https://github.com/lsd-rs/lsd - Better ls
 
 https://github.com/paololazzari/play - Terminal playground
 
@@ -964,4 +964,4 @@ https://github.com/IdreesInc/Monocraft - Monospaced Minecraft font
 https://github.com/OptiKey/OptiKey - Helps Motor Neuron Disease patients interact with their PC
 
 https://github.com/WaviestBalloon/MyNameIsWalterHartwellWhite - waltuh
-### [Back to top](/repos.md#jump-to)
+### [Back to top](/README.md#jump-to)
