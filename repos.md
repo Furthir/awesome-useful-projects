@@ -157,6 +157,8 @@ https://github.com/FeralInteractive/gamemode - Optimize Linux performance
 
 https://github.com/pizzaboxer/bloxstrap - Custom Roblox bootstrapper
 
+https://github.com/xTrayambak/lucem - Wrapper for Sober (Roblox Linux runtime)
+
 https://github.com/ic3w0lf22/Roblox-Account-Manager - Roblox account manager
 
 https://github.com/ic3w0lf22/RAMDecrypt - Roblox Account Manager decrypter
