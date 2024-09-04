@@ -8,7 +8,11 @@
 
 
 # Intro
-A list of over 400 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer. Maybe except for the Other section, that's just for fun. A more minimal version of the list lives [here](/repos.md).
+A list of over 400 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer. Maybe except for the Other section, that's just for fun. 
+
+This list does **NOT** include projects related to development such as APIs, libraries, and frameworks.  
+
+A more minimal version of the list lives [here](/repos.md).
 
 [git.new/repolist](https://git.new/repolist) - short and easy link to use for sharing (This link is generated using [dub.co](https://github.com/dubinc/dub))
 
