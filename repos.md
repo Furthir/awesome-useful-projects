@@ -59,6 +59,10 @@ https://github.com/notepad-plus-plus/notepad-plus-plus - Extensive text editor f
 
 https://github.com/dail8859/NotepadNext - Cross-platform reimplementation of Notepad++
 
+https://github.com/neovim/neovim - Better vim
+
+https://github.com/helix-editor/helix - Vim-like modal text editor
+
 https://github.com/kando-menu/kando - Cross-platform pie menu launcher
 
 https://github.com/CapSoftware/Cap - Screen capture sharing
@@ -277,6 +281,10 @@ https://github.com/avidseeker/awesome-areweyet - Current adoption status of vari
 
 
 ### **Command Line Tools**
+https://github.com/kovidgoyal/kitty - GPU accelerated terminal
+
+https://github.com/alacritty/alacritty - GPU accelerated terminal
+
 https://github.com/lhvy/pipes-rs - Pipes
 
 https://github.com/sharkdp/bat - Better cat
@@ -321,8 +329,6 @@ https://gitlab.com/timvisee/ffsend - share files from the command line using [Se
 
 
 ### CLI/TUI Apps
-https://github.com/neovim/neovim - Better vim
-
 https://github.com/itsjunetime/tdf - TUI-based PDF viewer
 
 https://github.com/jarun/nnn - Extensive file manager
@@ -526,6 +532,8 @@ https://github.com/opentoonz/opentoonz - 2D animation software
 
 https://github.com/LMMS/lmms - Cross-platform music production software
 
+https://github.com/studiorack/studiorack-site - Audio plugin site
+
 https://github.com/mtytel/vital - Synthesizer
 
 https://github.com/VASTDynamics/Vaporizer2 - Synthesizer
@@ -563,6 +571,10 @@ https://github.com/cryptomator/cryptomator - Cross-platform file encryption
 https://github.com/FreeTubeApp/FreeTube - Privacy (and tweaked) client for YouTube
 
 https://github.com/undergroundwires/privacy.sexy - Privacy configurations for desktop platforms
+
+https://gitlab.com/prism-break/prism-break - Privacy/security-oriented software recommendations
+
+https://codeberg.org/swiso/website - Ethical and privacy-conscious alternatives
 
 https://github.com/owerdogan/whoami-project - Debian/Arch privacy tool
 
@@ -825,6 +837,8 @@ https://codeberg.org/dnkl/yambar - Lightweight status bar for Wayland and X11
 
 https://github.com/polybar/polybar - Customizable status bar
 
+https://github.com/Jas-SinghFSU/HyprPanel - Extensive bar for Hyprland
+
 https://github.com/cr3eperall/dynisland - Apple Dynamic Island-like bar
 
 https://github.com/phw/peek - Simple animated GIF screen recorder
@@ -879,9 +893,7 @@ https://github.com/redpenguinyt/display3d - CLI for rendering and animating 3D o
 
 https://github.com/TNTwise/REAL-Video-Enhancer - Interpolate and upscale videos on Linux/MacOS
 
-https://github.com/vosen/ZLUDA - CUDA on AMD GPUs
-
-https://github.com/Babyhamsta/Aimmy - AI based aimbot lmao
+https://github.com/vosen/ZLUDA - CUDA on ??? GPUs
 
 https://github.com/SAWARATSUKI/KawaiiLogos - Repo for all of the kawaii logos made by Sawaratsuki
 
@@ -892,6 +904,8 @@ https://github.com/alexkirsz/dispatch - Combine internet connections
 https://github.com/MaxAlyokhin/binary-synth - Binary file interpreter for audio synthesis
 
 https://github.com/ozgrozer/colors - Color palette generator
+
+https://github.com/EmperorEntropy/PaletteSnap - Color palette generator
 
 https://github.com/ayushpai/AI-Math-Notes - Open-source Apple Math Notes
 
@@ -911,8 +925,6 @@ https://github.com/is-a-dev/register -  '.is-a.dev' subdomain
 
 https://github.com/wdhdev/free-for-life -  Huge amount of services that are free
 
-https://github.com/EmperorEntropy/PaletteSnap - Color palette generator
-
 https://github.com/HeyPuter/puter - Internet OS
 
 https://github.com/AsteroidOS/asteroid - Alternate smartwatch OS
@@ -925,4 +937,5 @@ https://github.com/IdreesInc/Monocraft - Monospaced Minecraft font
 
 https://github.com/OptiKey/OptiKey - Helps Motor Neuron Disease patients interact with their PC
 
+https://github.com/WaviestBalloon/MyNameIsWalterHartwellWhite - waltuh
 ### [Back to top](/repos.md#jump-to)
