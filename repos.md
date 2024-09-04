@@ -446,15 +446,17 @@ https://github.com/zen-browser/desktop - Firefox-based browser
 ### Browser Extensions/Scripts/Tools
 https://github.com/gorhill/uBlock - This is the greatest adblocker of All Time
 
-https://github.com/pixeltris/TwitchAdSolutions - Twitch adblocking
-
-https://github.com/besuper/TwitchNoSub - Twitch subonly content bypass
-
 https://github.com/violentmonkey/violentmonkey - Userscript manager
 
 https://github.com/openstyles/stylus - Userstyles manager
 
+https://github.com/pixeltris/TwitchAdSolutions - Twitch adblocking
+
+https://github.com/besuper/TwitchNoSub - Twitch subonly content bypass
+
 https://gitlab.com/ClearURLs/ClearUrls - Remove tracking elements from URLs
+
+https://github.com/ray-lothian/UserAgent-Switcher - User-Agent spoofer
 
 https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated - Auto-bypass link shorteners
 
@@ -648,7 +650,7 @@ https://github.com/documenso/documenso - Digital document signer
 
 https://github.com/docusealco/docuseal - Digital document signer
 
-https://codeberg.org/tenacityteam/tenacity -  Multi-track audio editor and recorder
+https://codeberg.org/tenacityteam/tenacity -  (Audacity fork) Multi-track audio editor and recorder
 
 https://github.com/ether/etherpad-lite - Real-time collaborative document editor
 
@@ -719,6 +721,8 @@ https://github.com/LineageOS/android - Alternate Android OS
 https://gitlab.com/fdroid/fdroidclient - Client for [F-Droid](https://f-droid.org), a Free Software repo system
 
 https://gitlab.com/AuroraOSS/AuroraStore - Alternate Google Play store replacement
+
+https://github.com/thunderbird/thunderbird-android - Email client
 
 https://github.com/FossifyOrg/File-Manager - File manager
 
