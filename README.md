@@ -584,6 +584,8 @@ https://github.com/bitwarden/clients - Password manager
 
 https://github.com/authpass/authpass - Cross-platform Password manager
 
+https://github.com/Levminer/authme - Cross-platform 2FA authenticator app 
+
 https://github.com/librespeed/speedtest - Libre internet speed test
 
 https://github.com/paulmillr/encrypted-dns - DNS over HTTPS config profiles for iOS & macOS
@@ -819,6 +821,8 @@ https://github.com/jon-mil-92/DisplayHotKeys - Apply display profiles using hotk
 https://github.com/ntdevlabs/tiny11builder - Script to build a trimmed-down Win11 image
 
 ### Linux
+https://github.com/ChrisTitusTech/linutil - Linux toolbox and utilities
+
 https://github.com/autokey/autokey - Scriptable automation utility, alternative to AHK
 
 https://github.com/flightlessmango/MangoHud - Application overlay for monitoring resources
