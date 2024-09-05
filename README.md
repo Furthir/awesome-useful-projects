@@ -12,7 +12,7 @@ A list of over 400 (and counting) open source projects that aims to have project
 
 This list does **NOT** include projects related to development such as APIs, libraries, and frameworks.  
 
-A more minimal version of the list lives [here](/repos.md).
+A version of the list without all the fluff lives [here](/repos.md).
 
 [git.new/repolist](https://git.new/repolist) - short and easy link to use for sharing (This link is generated using [dub.co](https://github.com/dubinc/dub))
 
@@ -839,6 +839,8 @@ https://github.com/wwmm/easyeffects - PipeWIre audio effect manager
 
 https://github.com/sezanzeb/input-remapper - Input device remapping tool
 
+https://github.com/AdnanHodzic/auto-cpufreq - Automatic CPU power optimizer
+
 https://github.com/trigg/Discover - Discord overlay
 
 https://github.com/JoseExposito/touchegg - Multi-touch gesture recognizer
@@ -862,6 +864,10 @@ https://github.com/dunst-project/dunst - Customizable notification daemon
 https://github.com/emersion/mako -  Wayland notification daemon
 
 https://github.com/LGFae/swww/ - Wayland wallpaper daemon
+
+https://github.com/hyprwm/hyprpaper -  Wayland wallpaper utility
+
+https://github.com/anufrievroman/waypaper - GUI wallpaper manager for Wayland
 
 https://codeberg.org/dnkl/yambar - Lightweight status bar for Wayland and X11
 
