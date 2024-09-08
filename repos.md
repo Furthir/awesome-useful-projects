@@ -171,7 +171,7 @@ https://github.com/an-anime-team/an-anime-game-launcher - Genshit on Linux
 
 https://github.com/an-anime-team/honkers-launcher - HI on Linux
 
-https://github.com/an-anime-team/the-honkers-railway-launcher - honk on Linux
+https://github.com/an-anime-team/the-honkers-railway-launcher - honk game on Linux
 
 https://github.com/yaagl/yet-another-anime-game-launcher - Thy Anime Games on Mac
 
@@ -334,6 +334,8 @@ https://gitlab.com/timvisee/ffsend - share files from the command line using [Se
 https://github.com/itsjunetime/tdf - TUI-based PDF viewer
 
 https://github.com/jarun/nnn - Extensive file manager
+
+https://github.com/sxyazi/yazi - Async file manager
 
 https://github.com/slyeet03/spoify - Terminal-based Spotify 
 
@@ -623,6 +625,8 @@ https://github.com/FlareSolverr/FlareSolverr - Proxy server to bypass Cloudflare
 https://github.com/Rafficer/linux-cli-community - Linux command-line client for ProtonVPN
 
 https://github.com/boltgolt/howdy - Facial authentication for Linux
+
+https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List - List of people-search opt out links
 
 https://github.com/TeamPiped/RYD-Proxy - non-logging proxy for Return YouTube Dislike API server
 

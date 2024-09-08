@@ -8,7 +8,7 @@
 
 
 # Intro
-A list of over 400 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer. Maybe except for the Other section, that's just for fun. 
+A list of over 400 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer (is casual the word? idk). Maybe except for the Other section, that's just for fun. 
 
 This list does **NOT** include projects related to development such as APIs, libraries, and frameworks.  
 
@@ -22,7 +22,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 # Projects
 ## Jump To
 
-- [Useful](/README.md#Useful) - Personal picks of very useful projects
+- [Useful](/README.md#Useful) - Personal picks of very useful stuff
 - [Games](/README.md#Games) - Game related tools/projects
 - [Backup/Sync](/README.md#backupsync) - Backup solutions and tools
 - [Customizations](/README.md#Customizations) - Utilities for customizing/theming stuff
@@ -191,7 +191,7 @@ https://github.com/an-anime-team/an-anime-game-launcher - Genshit on Linux
 
 https://github.com/an-anime-team/honkers-launcher - HI on Linux
 
-https://github.com/an-anime-team/the-honkers-railway-launcher - honk on Linux
+https://github.com/an-anime-team/the-honkers-railway-launcher - honk game on Linux
 
 https://github.com/yaagl/yet-another-anime-game-launcher - Thy Anime Games on Mac
 
@@ -354,6 +354,8 @@ https://gitlab.com/timvisee/ffsend - share files from the command line using [Se
 https://github.com/itsjunetime/tdf - TUI-based PDF viewer
 
 https://github.com/jarun/nnn - Extensive file manager
+
+https://github.com/sxyazi/yazi - Async file manager
 
 https://github.com/slyeet03/spoify - Terminal-based Spotify 
 
@@ -643,6 +645,8 @@ https://github.com/FlareSolverr/FlareSolverr - Proxy server to bypass Cloudflare
 https://github.com/Rafficer/linux-cli-community - Linux command-line client for ProtonVPN
 
 https://github.com/boltgolt/howdy - Facial authentication for Linux
+
+https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List - List of people-search opt out links
 
 https://github.com/TeamPiped/RYD-Proxy - non-logging proxy for Return YouTube Dislike API server
 
