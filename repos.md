@@ -809,6 +809,8 @@ https://github.com/ChrisTitusTech/linutil - Linux toolbox and utilities
 
 https://github.com/autokey/autokey - Scriptable automation utility, alternative to AHK
 
+https://github.com/robiot/xclicker - Autoclicker for X11
+
 https://github.com/flightlessmango/MangoHud - Application overlay for monitoring resources
 
 https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet - List of supported games w/ anticheat
