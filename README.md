@@ -277,7 +277,7 @@ https://github.com/Achno/gowall - Convert a wallpaper's color scheme/palette
 
 
 ### Awesome Lists
-https://github.com/Awesome-Windows/Awesome - List of useful Windows tools/apps
+https://github.com/Lumaeris/awesome-windows - List of useful Windows tools/apps
 
 https://github.com/lissy93/awesome-privacy -  List of privacy/security-focused software & services
 
