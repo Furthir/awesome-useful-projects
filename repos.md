@@ -851,6 +851,8 @@ https://github.com/emersion/mako -  Wayland notification daemon
 
 https://github.com/LGFae/swww/ - Wayland wallpaper daemon
 
+https://github.com/eugenenoble2005/swengine - Live wallpaper downloader for swww
+
 https://github.com/hyprwm/hyprpaper -  Wayland wallpaper utility
 
 https://github.com/anufrievroman/waypaper - GUI wallpaper manager for Wayland

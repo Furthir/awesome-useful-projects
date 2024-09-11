@@ -5,7 +5,7 @@
 <h3 align="center">
   A Curated List of 400+ Open Source Projects for Everyday Use
 </h3>
-
+<p align="center" style="font-size: small;">Thanks for 100 stars! - frthr</p>
 
 # Intro
 A list of over 400 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer (is casual the word? idk). Maybe except for the Other section, that's just for fun. 
@@ -870,6 +870,8 @@ https://github.com/dunst-project/dunst - Customizable notification daemon
 https://github.com/emersion/mako -  Wayland notification daemon
 
 https://github.com/LGFae/swww/ - Wayland wallpaper daemon
+
+https://github.com/eugenenoble2005/swengine - Live wallpaper downloader for swww
 
 https://github.com/hyprwm/hyprpaper -  Wayland wallpaper utility
 
