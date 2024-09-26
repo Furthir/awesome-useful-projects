@@ -43,6 +43,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 - [Android](/README.md#Android) - Android specific projects
 - [iOS](/README.md#iOS) - iOS specific projects
 - [Windows](/README.md#Windows) - Windows specific projects
+- [MacOS](/README.md#MacOS) - MacOS specific projects
 - [Linux](/README.md#Linux) - Linux specific projects
 - [Other](/README.md#Other) - Fun/interesting/miscellaneous projects
 

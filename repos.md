@@ -21,6 +21,7 @@
 - [Android](/repos.md#Android) - Android specific projects
 - [iOS](/repos.md#iOS) - iOS specific projects
 - [Windows](/repos.md#Windows) - Windows specific projects
+- [MacOS](/repos.md#MacOS) - MacOS specific projects
 - [Linux](/repos.md#Linux) - Linux specific projects
 - [Other](/repos.md#Other) - Fun/interesting/miscellaneous projects
 
