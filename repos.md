@@ -808,8 +808,6 @@ https://github.com/hbang/NewTerm - Terminal emulator
 
 https://github.com/straight-tamago/misaka - iOS & tvOS customisation tool for KFD & MDC
 
-https://github.com/PlayCover/PlayCover - Run iOS apps and games on Apple Silicon Macs
-
 https://github.com/Dadoum/Sideloader - Cross-platform iOS app sideloader
 
 https://github.com/utmapp/UTM - Virtual machine for iOS and macOS 
@@ -847,6 +845,8 @@ https://github.com/ntdevlabs/tiny11builder - Trimmed-down Win11 image build scri
 https://github.com/UeharaYou/HiddenBar - Hide menu bar items
 
 https://github.com/lwouis/alt-tab-macos - Alt-Tab window switcher
+
+https://github.com/PlayCover/PlayCover - Run iOS apps and games on Apple Silicon Macs
 
 
 ### Linux

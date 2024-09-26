@@ -834,8 +834,6 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/straight/tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs
-
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Cross-platform iOS app sideloader
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machine for iOS and macOS 
@@ -873,6 +871,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/UeharaYou/HiddenBar](https://github.com/UeharaYou/HiddenBar) - Hide menu bar items
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Alt-Tab window switcher 
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs
 
 
 ### Linux
