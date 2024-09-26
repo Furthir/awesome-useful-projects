@@ -677,6 +677,8 @@ https://github.com/reorproject/reor - AI-powered note taking app
 
 https://github.com/laurent22/joplin/ - Cross-platform note taking app
 
+https://github.com/usememos/memos - Self-hostable note taking service
+
 https://github.com/siyuan-note/siyuan - Privacy-first personal knowledge management system
 
 https://github.com/anyproto/anytype-ts -  Personal knowledge base
@@ -839,6 +841,13 @@ https://github.com/jon-mil-92/DisplayHotKeys - Apply display profiles using hotk
 
 https://github.com/ntdevlabs/tiny11builder - Trimmed-down Win11 image build script
 
+
+### MacOS
+https://github.com/UeharaYou/HiddenBar - Hide menu bar items
+
+https://github.com/lwouis/alt-tab-macos - Alt-Tab window switcher
+
+
 ### Linux
 https://github.com/ChrisTitusTech/linutil - Linux toolbox and utilities
 
@@ -928,6 +937,10 @@ https://github.com/jtheoof/swappy - Wayland native snapshot editing tool
 
 https://github.com/jesusferm/Nautilus-43-BackSpace - Reenable backspace bind for Nautilus
 
+https://github.com/G-dH/advanced-alttab-window-switcher - GNOME Alt-Tab replacement
+
+https://github.com/sagb/alttab - Window switcher manager for X11
+
 https://gitlab.com/bitseater/meteo - Forecast application using OpenWeatherMap API
 
 https://gitlab.com/chinstrap/gammastep - Adjust screen color temperature 
@@ -957,6 +970,8 @@ https://github.com/mijorus/collector - Drag multiple files and folders to "hold"
 https://github.com/aelew/devterms - Dictionary of developer-related terms
 
 https://github.com/astralapp/astral - GitHub Stars organizer
+
+https://github.com/QiuYannnn/Local-File-Organizer - AI File Organizer
 
 https://github.com/rhasspy/piper - Local neural text to speech system
 

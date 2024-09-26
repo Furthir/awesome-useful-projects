@@ -699,6 +699,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/laurent22/joplin](https://github.com/laurent22/joplin/) - Cross-platform note taking app
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/usememos/memos](https://github.com/usememos/memos) - Self-hostable note taking service
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Privacy-first personal knowledge management system
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Personal knowledge base
@@ -865,6 +867,13 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Win11 image build script
 
+
+### MacOS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/UeharaYou/HiddenBar](https://github.com/UeharaYou/HiddenBar) - Hide menu bar items
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Alt-Tab window switcher 
+
+
 ### Linux
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Linux toolbox and utilities
 
@@ -954,6 +963,10 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jesusferm/Nautilus-43-BackSpace](https://github.com/jesusferm/Nautilus-43-BackSpace) - Reenable backspace bind for Nautilus
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher) - GNOME Alt-Tab replacement
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sagb/alttab](https://github.com/sagb/alttab) - Window switcher manager for X11
+
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/bitseater/meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/chinstrap/gammastep](https://gitlab.com/chinstrap/gammastep) - Adjust screen color temperature 
@@ -983,6 +996,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/aelew/devterms](https://github.com/aelew/devterms) - Dictionary of developer-related terms
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/astralapp/astral](https://github.com/astralapp/astral) - GitHub Stars organizer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - AI file organizer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rhasspy/piper](https://github.com/rhasspy/piper) - Local neural text to speech system
 
