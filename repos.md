@@ -395,6 +395,8 @@ https://github.com/zocker-160/keyboard-center - Mapping macro keys on Logitech k
 
 https://github.com/pwr-Solaar/Solaar - Linux device manager for Logitech devices
 
+https://github.com/vial-kb/vial-gui - Cross-platform keyboard configurator
+
 https://gitlab.com/CalcProgrammer1/OpenRGB - RGB lighting control across many manufacturers
 
 https://github.com/CalcProgrammer1/KeyboardVisualizer - Audio visualizer and effects engine

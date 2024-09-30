@@ -417,6 +417,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) - Cross-platform keyboard configurator
+
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/CalcProgrammer1/OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) - RGB lighting control across many manufacturers
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CalcProgrammar1/KeyboardVisualizer](https://github.com/CalcProgrammer1/KeyboardVisualizer) - Audio visualizer and effects engine
