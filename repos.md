@@ -350,6 +350,8 @@ https://github.com/sxyazi/yazi - Async file manager
 
 https://github.com/joehillen/sysz - fzf systemctl UI
 
+https://github.com/ayn2op/discordo - Discord client
+
 https://github.com/sudipghimire533/ytui-music - YouTube Music client
 
 https://github.com/slyeet03/spoify - Terminal-based Spotify 
@@ -770,6 +772,8 @@ https://gitlab.com/AuroraOSS/AuroraStore - Alternate Google Play store replaceme
 
 https://github.com/ImranR98/Obtainium - Get app updates straight from the source
 
+https://github.com/EtchDroid/EtchDroid - Create bootable Linux image USBs
+
 https://github.com/thunderbird/thunderbird-android - Email client
 
 https://github.com/FossifyOrg/File-Manager - File manager
@@ -879,6 +883,8 @@ https://github.com/lucianodato/noise-repellent - Plugins for broadband noise red
 https://github.com/noisetorch/NoiseTorch - Real-time microphone noise suppression
 
 https://github.com/sezanzeb/input-remapper - Input device remapping tool
+
+https://github.com/snyball/Hawck - Scriptable key-rebinding
 
 https://github.com/AdnanHodzic/auto-cpufreq - Automatic CPU power optimizer
 

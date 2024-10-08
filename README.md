@@ -372,6 +372,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/joehillen/sysz](https://github.com/joehillen/sysz) - fzf systemctl UI
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ayn2op/discordo](https://github.com/ayn2op/discordo) - Discord client
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - YouTube Music client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/slyeet03/spoify](https://github.com/slyeet03/spoify) - Terminal-based Spotify 
@@ -792,6 +794,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Obtainium](https://github.com/ImranR98/Obtainium) - Get app updates straight from the source
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid) - Create bootable Linux image USBs
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Email client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - File manager
@@ -905,6 +909,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - Input device remapping tool
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/snyball/Hawck](https://github.com/snyball/Hawck) - Scriptable key-rebinding
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU power optimizer
 
