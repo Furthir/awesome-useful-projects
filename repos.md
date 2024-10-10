@@ -38,6 +38,8 @@ https://github.com/ShareX/ShareX - Screen capture tool for Windows
 
 https://github.com/diced/zipline - ShareX/file upload server
 
+https://github.com/hluk/CopyQ - Cross-platform clipboard manager
+
 https://github.com/flameshot-org/flameshot - Cross-platform screenshot tool
 
 https://github.com/files-community/Files - Modern file manager for Windows

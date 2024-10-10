@@ -1,7 +1,7 @@
 <h1 align="center">
   Awesome, Useful, Open Projects
 </h1>
-
+w
 <h3 align="center">
   A Curated List of 400+ Open Source Projects for Everyday Use
 </h3>
@@ -59,6 +59,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ShareX/ShareX](https://github.com/ShareX/ShareX) - Screen capture tool for Windows
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/diced/zipline](https://github.com/diced/zipline) - ShareX/file upload server
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hluk/CopyQ](https://github.com/hluk/CopyQ) - Cross-platform clipboard manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Cross-platform screenshot tool
 
