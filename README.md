@@ -22,7 +22,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 # Projects
 ## Jump To
 
-- [Useful](/README.md#Useful) - Personal picks of very useful stuff
+- [Useful](/README.md#Useful) - Personal picks of very useful projects
 - [Games](/README.md#Games) - Game related tools/projects
 - [Backup/Sync](/README.md#backupsync) - Backup solutions and tools
 - [Customizations](/README.md#Customizations) - Utilities for customizing/theming stuff
@@ -268,9 +268,11 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox theme
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - Neovim theme
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/adriankarlen/textfox](https://github.com/adriankarlen/textfox) - TUI-style Firefox theme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/refact0r/system24](https://github.com/refact0r/system24) - TUI-style Discord theme
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - Neovim theme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NvChad/NvChad](https://github.com/NvChad/NvChad) - Neovim config
 
@@ -712,6 +714,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Personal knowledge base
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hcengineering/huly](https://github.com/hcengineering/platform) - Project management platform
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Local-hosted PDF editor
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/docuenso/documenso](https://github.com/documenso/documenso) - Digital document signer
@@ -829,6 +833,10 @@ If you know a project that would fall into my weird criteria, feel free to sugge
   </details>
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/c22dev/Geranium](https://github.com/c22dev/Geranium) - Multi-purpose TrollStore app
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - Bypass 3 app sideload limit & more
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Jailed tweaks for 17.0-18.1b4
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opa334/Dopamine](https://github.com/opa334/Dopamine) Semi-untethered jailbreak for iOS 15 and 16
 
@@ -972,7 +980,9 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jtheoff/swappy](https://github.com/jtheoof/swappy) - Wayland native snapshot editing tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jesusferm/Nautilus-43-BackSpace](https://github.com/jesusferm/Nautilus-43-BackSpace) - Reenable backspace bind for Nautilus
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) - Various file manager scripts
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jesusferm/Nautilus-43-BackSpace](https://github.com/jesusferm/Nautilus-43-BackSpace) - Re-enable backspace bind for Nautilus
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher) - GNOME Alt-Tab replacement
 
@@ -1009,6 +1019,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/astralapp/astral](https://github.com/astralapp/astral) - GitHub Stars organizer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - AI file organizer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Community list of open source alternatives
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rhasspy/piper](https://github.com/rhasspy/piper) - Local neural text to speech system
 

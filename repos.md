@@ -246,9 +246,11 @@ https://github.com/Naezr/ShyFox - Hidden element Firefox theme
 
 https://github.com/datguypiko/Firefox-Mod-Blur - Firefox theme
 
-https://github.com/nyoom-engineering/oxocarbon.nvim - Neovim theme
+https://github.com/adriankarlen/textfox - TUI-style Firefox theme
 
 https://github.com/refact0r/system24 - TUI-style Discord theme
+
+https://github.com/nyoom-engineering/oxocarbon.nvim - Neovim theme
 
 https://github.com/NvChad/NvChad - Neovim config
 
@@ -690,6 +692,8 @@ https://github.com/siyuan-note/siyuan - Privacy-first personal knowledge managem
 
 https://github.com/anyproto/anytype-ts -  Personal knowledge base
 
+https://github.com/hcengineering/platform - Project management platform
+
 https://github.com/Stirling-Tools/Stirling-PDF - Local-hosted PDF editor
 
 https://github.com/documenso/documenso - Digital document signer
@@ -801,8 +805,16 @@ https://github.com/SideStore/SideStore - AltStore alternative to sideload withou
 https://github.com/opa334/TrollStore - Jailed iOS app that can install IPAs permanently (iOS 14-16.6.1, 17.0)
 
 https://github.com/Brixy2005/TrollStore-IPAs - TrollStore IPA collection
+- <details>
+    <summary>Notice!</summary>
+    The original repo and maintainer(s) were unfortunately nuked, therefore no releases are available anymore.
+  </details>
 
 https://github.com/c22dev/Geranium - Multi-purpose TrollStore app
+
+https://github.com/khanhduytran0/SparseBox - Bypass 3 app sideload limit & more
+
+https://github.com/leminlimez/Nugget - Jailed tweaks for 17.0-18.1b4
 
 https://github.com/opa334/Dopamine Semi-untethered jailbreak for iOS 15 and 16
 
@@ -946,6 +958,8 @@ https://github.com/mijorus/smile -  Emoji picker
 
 https://github.com/jtheoof/swappy - Wayland native snapshot editing tool
 
+https://github.com/cfgnunes/nautilus-scripts - Various file manager scripts
+
 https://github.com/jesusferm/Nautilus-43-BackSpace - Reenable backspace bind for Nautilus
 
 https://github.com/G-dH/advanced-alttab-window-switcher - GNOME Alt-Tab replacement
@@ -983,6 +997,8 @@ https://github.com/aelew/devterms - Dictionary of developer-related terms
 https://github.com/astralapp/astral - GitHub Stars organizer
 
 https://github.com/QiuYannnn/Local-File-Organizer - AI File Organizer
+
+https://github.com/piotrkulpinski/openalternative - Community list of open source alternatives
 
 https://github.com/rhasspy/piper - Local neural text to speech system
 
