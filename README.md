@@ -1,7 +1,7 @@
 <h1 align="center">
   Awesome, Useful, Open Projects
 </h1>
-w
+
 <h3 align="center">
   A Curated List of 400+ Open Source Projects for Everyday Use
 </h3>
@@ -347,6 +347,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Smart clipboard manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lsd-rs/lsd](https://github.com/lsd-rs/lsd) - ls with colors, formatting, icons, etc.
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/natecraddock/zf](https://github.com/natecraddock/zf) - Filepath fuzzy finder
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/paolozzari/play](https://github.com/paololazzari/play) - Terminal playground
 

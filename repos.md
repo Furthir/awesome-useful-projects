@@ -326,6 +326,8 @@ https://github.com/dustinkirkland/byobu - Terminal multiplexer
 
 https://github.com/lsd-rs/lsd - ls with colors, formatting, icons, etc.
 
+https://github.com/natecraddock/zf - Filepath fuzzy finder
+
 https://github.com/paololazzari/play - Terminal playground
 
 https://github.com/charmbracelet/freeze - Screenshot your terminal
