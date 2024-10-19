@@ -508,6 +508,8 @@ https://github.com/wanhose/cookie-dialog-monster - Auto hides cookie consent dia
 
 https://codeberg.org/LibRedirect/browser_extension - Redirects popular sites to alternative frontends
 
+https://github.com/refined-github/refined-github - GitHub QoL tweaks
+
 https://github.com/BrowserBoost/Extension - Various browser tweaks
 
 https://github.com/NicolaeNMV/BehindTheOverlay - Close any overlay on any website
@@ -898,6 +900,8 @@ https://github.com/lucianodato/noise-repellent - Plugins for broadband noise red
 
 https://github.com/noisetorch/NoiseTorch - Real-time microphone noise suppression
 
+https://github.com/rvaiya/keyd  - Key remapping daemon
+
 https://github.com/sezanzeb/input-remapper - Input device remapping tool
 
 https://github.com/snyball/Hawck - Scriptable key-rebinding
@@ -974,6 +978,8 @@ https://gitlab.com/chinstrap/gammastep - Adjust screen color temperature
 
 https://gitlab.com/coolercontrol/coolercontrol - Cooling device control
 
+https://github.com/jarcode-foss/glava - OpenGL audio visualizer
+
 https://github.com/winapps-org/winapps - Run Windows apps like they are native
 
 https://github.com/euclio/fm - Simple GTK4 file manager
@@ -997,6 +1003,8 @@ https://github.com/mijorus/collector - Drag multiple files and folders to "hold"
 https://github.com/aelew/devterms - Dictionary of developer-related terms
 
 https://github.com/astralapp/astral - GitHub Stars organizer
+
+https://github.com/download-directory/download-directory.github.io - Download GitHub repo directories
 
 https://github.com/QiuYannnn/Local-File-Organizer - AI File Organizer
 

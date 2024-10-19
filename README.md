@@ -530,6 +530,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/LibRedirect/browser_extension](https://codeberg.org/LibRedirect/browser_extension) - Redirects popular sites to alternative frontends
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/refined-github/refined-github](https://github.com/refined-github/refined-github) - GitHub QoL tweaks
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BrowserBoost/Extension](https://github.com/BrowserBoost/Extension) - Various browser tweaks
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Close any overlay on any website
@@ -920,6 +922,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rvaiya/keyd](https://github.com/rvaiya/keyd)  - Key remapping daemon
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - Input device remapping tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/snyball/Hawck](https://github.com/snyball/Hawck) - Scriptable key-rebinding
@@ -996,6 +1000,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/coolercontrol/coolercontrol](https://gitlab.com/coolercontrol/coolercontrol) - Cooling device control
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jarcode-foss/glava](https://github.com/jarcode-foss/glava) - OpenGL audio visualizer
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps like they are native
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/euclio/fm](https://github.com/euclio/fm) - Simple GTK4 file manager
@@ -1019,6 +1025,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/aelew/devterms](https://github.com/aelew/devterms) - Dictionary of developer-related terms
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/astralapp/astral](https://github.com/astralapp/astral) - GitHub Stars organizer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/download-directory/download-directory](https://github.com/download-directory/download-directory.github.io) - Download GitHub repo directories
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - AI file organizer
 
