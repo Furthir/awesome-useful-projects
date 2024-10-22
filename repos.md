@@ -260,6 +260,7 @@ https://github.com/gpakosz/.tmux - tmux config
 
 https://github.com/Achno/gowall - Convert a wallpaper's color scheme/palette
 
+https://github.com/tkashkin/Adwaita-for-Steam - GNOME-like Steam skin
 
 ### Awesome Lists
 https://github.com/Lumaeris/Awesome - List of useful Windows tools/apps
@@ -433,7 +434,11 @@ https://github.com/BetterDiscord/BetterDiscord - Modded Discord desktop client
 
 https://github.com/Vendicated/Vencord - Modded Discord desktop/browser client
 
-https://github.com/Vencord/Vesktop - Modded Discord web client
+https://github.com/Vencord/Vesktop - Modded Discord web client with better Linux support
+
+https://github.com/Equicord/Equicord - Vencord fork with more features and plugins
+
+https://github.com/Equicord/Equibop - Vesktop fork with Equicord base
 
 https://github.com/uowuo/abaddon - Alternative Discord client using GTK
 
@@ -452,6 +457,8 @@ https://github.com/arichornlover/uYouEnhanced - Modded YouTube for iOS
 https://github.com/qnblackcat/uYouPlus - Modded YouTube for iOS
 
 https://github.com/TherionRO/YouTubeiVanced - Modded YouTube for iOS
+
+https://github.com/SteamClientHomebrew/Millennium - Steam client modding
 
 ### Mail
 https://github.com/Betterbird/thunderbird-patches - Patches for Thunderbird
@@ -1029,6 +1036,8 @@ https://github.com/ozgrozer/colors - Color palette generator
 https://github.com/EmperorEntropy/PaletteSnap - Color palette generator
 
 https://github.com/ayushpai/AI-Math-Notes - Open-source Apple Math Notes
+
+https://github.com/theJayTea/WritingTools - Apple Intelligence Writing Tools for Windows
 
 https://github.com/neodrama/github-drama - Funny Github drama
 

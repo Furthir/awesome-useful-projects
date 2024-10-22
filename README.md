@@ -282,6 +282,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Achno/gowall](https://github.com/Achno/gowall) - Convert a wallpaper's color scheme/palette
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - GNOME-like Steam skin
+
 
 ### Awesome Lists
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - List of useful Windows tools/apps
@@ -455,7 +457,11 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Vendicated/Vencord](https://github.com/Vendicated/Vencord) - Modded Discord desktop/browser client
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Modded Discord web client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Modded Discord web client with better Linux support
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Equicord/Equicord](https://github.com/Equicord/Equicord) - Vencord fork with more features and plugins
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Equicord/Equibop](https://github.com/Equicord/Equibop) - Vesktop fork with Equicord base
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/uowuo/abaddon](https://github.com/uowuo/abaddon) - Alternative Discord client using GTK
 
@@ -474,6 +480,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube for iOS
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - Modded YouTube for iOS
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Steam client modding 
 
 ### Mail
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Patches for Thunderbird
@@ -1051,6 +1059,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/EmperorEntropy/PaletteSnap](https://github.com/EmperorEntropy/PaletteSnap) - Color palette generator
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ayushpai/AI-Math-Notes](https://github.com/ayushpai/AI-Math-Notes) - Open-source Apple Math Notes
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - Apple Intelligence Writing Tools for Windows
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neodrama/github-drama](https://github.com/neodrama/github-drama) - Funny Github drama
 
