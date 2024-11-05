@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-  A Curated List of 400+ Open Source Projects for Everyday Use
+  A Curated List of 500+ Open Source Projects for Everyday Use
 </h3>
 <p align="center" style="font-size: small;">Thanks for 100 stars! - frthr</p>
 
 # Intro
-A list of over 400 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer (is casual the word? idk). Maybe except for the Other section, that's just for fun. 
+A list of over 500 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer (is casual the word? idk). Maybe except for the Other section, that's just for fun. 
 
-This list does **NOT** include projects related to development such as APIs, libraries, and frameworks.  
+This list does **NOT** include projects related to development such as APIs, libraries, and frameworks.
 
 A version of the list without all the fluff lives [here](/repos.md).
 
@@ -200,7 +200,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NelloKudo/osu-winello](https://github.com/NelloKudo/osu-winello/) - osu! on linux script
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KotRikD/tosu](https://github.com/KotRikD/tosu)- osu! overlays
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KotRikD/tosu](https://github.com/KotRikD/tosu) - osu! overlays
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Batch map downloader for osu!
 
@@ -374,11 +374,15 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - Code viewer and markdown renderer 
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jarun/nnn](https://github.com/jarun/nnn) - Extensive file manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sxyazi/yazi](https://github.com/sxyazi/yazi) - Async file manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/joehillen/sysz](https://github.com/joehillen/sysz) - fzf systemctl UI
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pythops/bluetui](https://github.com/pythops/bluetui) - Bluetooth manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ayn2op/discordo](https://github.com/ayn2op/discordo) - Discord client
 
@@ -397,6 +401,10 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrajwalVandana/maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - Audio player
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pystardust/ani-cli](https://github.com/pystardust/ani-cli) - Browse and play anime
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/extrawurst/gitui](https://github.com/extrawurst/gitui) - TUI for git
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/divhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - GitHub dashboard
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Achno/gocheat](https://github.com/Achno/gocheat) - Customizable terminal cheatsheet
 
@@ -558,8 +566,6 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) - Create webapps
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sapjax/word-hunter](https://github.com/sapjax/word-hunter) - Discover new english words
-
 
 ### Download Managers/Torrenters
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qbittorrent/qBittorent](https://github.com/qbittorrent/qBittorrent) - Torrent client
@@ -633,6 +639,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/keepassxcreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - Password manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bitwarden/clients](https://github.com/bitwarden/clients) - Password manager
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternate Bitwarden server
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/authpass/authpass](https://github.com/authpass/authpass) - Cross-platform Password manager
 
@@ -987,6 +995,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/davatorium/rofi](https://github.com/davatorium/rofi) - Application launcher 
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji picker for rofi
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Network management menu
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xrelkd/clipcat](https://github.com/xrelkd/clipcat) - Clipboard manager
 

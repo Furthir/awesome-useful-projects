@@ -351,11 +351,15 @@ https://github.com/charmbracelet/glow - Markdown viewer
 
 https://github.com/guilhermeprokisch/see - Code viewer and markdown renderer
 
+https://github.com/tstack/lnav - Log file navigator
+
 https://github.com/jarun/nnn - Extensive file manager
 
 https://github.com/sxyazi/yazi - Async file manager
 
 https://github.com/joehillen/sysz - fzf systemctl UI
+
+https://github.com/pythops/bluetui - Bluetooth manager
 
 https://github.com/ayn2op/discordo - Discord client
 
@@ -374,6 +378,10 @@ https://github.com/ravachol/kew - Music player
 https://github.com/PrajwalVandana/maestro-cli - Audio player
 
 https://github.com/pystardust/ani-cli - Browse and play anime
+
+https://github.com/extrawurst/gitui - TUI for git
+
+https://github.com/dlvhdr/gh-dash - GitHub dashboard
 
 https://github.com/Achno/gocheat - Customizable terminal cheatsheet
 
@@ -535,8 +543,6 @@ https://github.com/maxhu08/mtab - New tab extension
 
 https://github.com/linuxmint/webapp-manager - Create webapps
 
-https://github.com/sapjax/word-hunter - Discover new english words
-
 
 ### Download Managers/Torrenters
 https://github.com/qbittorrent/qBittorrent - Torrent client
@@ -610,6 +616,8 @@ https://github.com/penpot/penpot - Design and code collab tool
 https://github.com/keepassxreboot/keepassxc - Password manager
 
 https://github.com/bitwarden/clients - Password manager
+
+https://github.com/dani-garcia/vaultwarden - Alternate Bitwarden server
 
 https://github.com/authpass/authpass - Cross-platform Password manager
 
@@ -964,6 +972,8 @@ https://gitlab.com/screenkey/screenkey - Screencast tool to display your keys
 https://github.com/davatorium/rofi - Application launcher 
 
 https://github.com/fdw/rofimoji - Emoji picker for rofi
+
+https://github.com/e-tho/iwmenu - Network management menu
 
 https://github.com/xrelkd/clipcat - Clipboard manager
 
