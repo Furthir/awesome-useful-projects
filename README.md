@@ -5,7 +5,7 @@
 <h3 align="center">
   A Curated List of 500+ Open Source Projects for Everyday Use
 </h3>
-<p align="center" style="font-size: small;">Thanks for 100 stars! - frthr</p>
+<p align="center" style="font-size: small;">Thanks for 200 stars! - frthr</p>
 
 # Intro
 A list of over 500 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer (is casual the word? idk). Maybe except for the Other section, that's just for fun. 
