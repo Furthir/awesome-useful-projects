@@ -14,6 +14,8 @@ This list does **NOT** include projects related to development such as APIs, lib
 
 A version of the list without all the fluff lives [here](/repos.md).
 
+View recent changes [here](/changelog.md).
+
 [git.new/repolist](https://git.new/repolist) - short and easy link to use for sharing (This link is generated using [dub.co](https://github.com/dubinc/dub))
 
 # Contribute
