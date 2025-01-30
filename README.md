@@ -74,6 +74,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/wolfree](https://codeberg.org/wolfree) - WolframAlpha but free
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - All-in-1 media platform app
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/imputnet/cobalt](https://github.com/imputnet/cobalt) - Media downloader
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Remote desktop application
@@ -244,6 +246,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/3ximus/aerial-sddm-theme](https://github.com/3ximus/aerial-sddm-theme) - SDDM login theme
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) - Astronaut SDDM theme
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/stepanzubkov/where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme) - Minimal SDDM theme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - GTK theme
@@ -279,6 +283,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Everblush](https://github.com/Everblush) - Dark vibrant color scheme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gpakosz/.tmux](https://github.com/gpakosz/.tmux) - tmux config
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/m3tozz/FastCat](https://github.com/m3tozz/FastCat) - FastFetch theme pack
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Achno/gowall](https://github.com/Achno/gowall) - Convert a wallpaper's color scheme/palette
 
@@ -366,6 +372,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/timvisee/ffsend](https://gitlab.com/timvisee/ffsend) - share files from the command line using [Send](https://github.com/timvisee/send)
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/homeport/termshot](https://github.com/homeport/termshot) - Capture terminal output
+
 
 ### CLI/TUI Apps 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/itsjunetime/tdf](https://github.com/itsjunetime/tdf) - TUI-based PDF viewer
@@ -399,6 +407,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ravachol/kew](https://github.com/ravachol/kew) - Music player
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrajwalVandana/maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - Audio player
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qxb3/fum](https://github.com/qxb3/fum) - TUI mpris client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pystardust/ani-cli](https://github.com/pystardust/ani-cli) - Browse and play anime
 
@@ -566,6 +576,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) - Create webapps
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Honey alternative
+
 
 ### Download Managers/Torrenters
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qbittorrent/qBittorent](https://github.com/qbittorrent/qBittorrent) - Torrent client
@@ -619,6 +631,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mtytel/vital](https://github.com/mtytel/vital) - Synthesizer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/VASTDynamics/Vaporizer2](https://github.com/VASTDynamics/Vaporizer2) - Synthesizer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia/) - Cross-platform MIDI visualizer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/blender/blender](https://github.com/blender/blender) - 3D creation suite
 
@@ -724,6 +738,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zed-industries/zed](https://github.com/zed-industries/zed) - Code editor
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rhyolite-org/rhyolite](https://github.com/rhyolite-org/rhyolite) - Markdown editor
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/reorproject/reor](https://github.com/reorproject/reor) - AI-powered note taking app
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/laurent22/joplin](https://github.com/laurent22/joplin/) - Cross-platform note taking app
@@ -786,6 +802,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/staniel359/muffon](https://github.com/staniel359/muffon/) - Multi-source music streaming + discovery client
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - Cross-platform music streamer
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zotify-dev/zotify](https://github.com/zotify-dev/zotify) - Music and podcast downloader
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -824,6 +842,12 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Email client
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fast4x/RiMusic](https://github.com/fast4x/RiMusic) - Multilingual YouTube Music streamer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/crackededed/Xtra](https://github.com/crackededed/Xtra) - Twitch player/browser
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/twireapp/Twire](https://github.com/twireapp/Twire) - Twitch player/browser
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - File manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material You file manager
@@ -837,6 +861,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DroidWorksStudio/mLauncher](https://github.com/DroidWorksStudio/mLauncher) - Minimal Launcher app
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/davidhealey/waistline](https://github.com/davidhealey/waistline) - Calorie counter app 
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos/) - Photo manager
 
 
 ### iOS
@@ -876,6 +902,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - "Cross-platform" ecosystem of apps unifying iMessage
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Dimilian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - Mastodon client
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/iKenndac/Tofu](https://github.com/iKenndac/Tofu) - 2FA app
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qnblackcat/Downgrade-apps-on-AppStore](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) - Guide on downgrading apps
@@ -889,6 +917,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AutoHotKey/AutoHotKey](https://github.com/AutoHotkey/AutoHotkey) - Automation scripting utility
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Windows Start menu replacement
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - Windows customization marketplace
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - Advanced audio effect manager
 
@@ -910,6 +940,15 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - Audio loopback driver
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Audio mixer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/koekeishiya/yabai](https://github.com/koekeishiya/yabai) - Tiling window manager
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - PNG file size optimizer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - AirDrop in Dynamic Island
 
 ### Linux
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Linux toolbox and utilities
@@ -922,6 +961,10 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GUI for MangoHud and utilities
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/domferr/Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - PowerToys for GNOME
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mfat/systemd-pilot](https://github.com/mfat/systemd-pilot) - systemd service GUI manager
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AreWeAntiCheatYet/AreWeAntiCheatYet](https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet) - List of supported games w/ anticheat
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qarmin/czkawka](https://github.com/qarmin/czkawka) - Remove unnecessary files from your computer
@@ -931,6 +974,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dimtpap/coppwr](https://github.com/dimtpap/coppwr) - GUI tool for PipeWire management
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wwmm/easyeffects](https://github.com/wwmm/easyeffects) - PipeWIre audio effect manager
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume control
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio effect processor
 
@@ -1012,6 +1057,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sagb/alttab](https://github.com/sagb/alttab) - Window switcher manager for X11
 
+[<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/Oglo12/rebos](https://gitlab.com/Oglo12/rebos) - Cross-distro NixOS-like repeatability
+
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/bitseater/meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/chinstrap/gammastep](https://gitlab.com/chinstrap/gammastep) - Adjust screen color temperature 
@@ -1030,13 +1077,13 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gdzx/audiosource](https://github.com/gdzx/audiosource) - Use an Android device as a USB microphone
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/apernet/OpenGFW](https://github.com/apernet/OpenGFW) - Great Firewall of China 
-
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/siddhpant/broo](https://github.com/siddhpant/broo) - Connect your phone as microphone wirelessly
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Twins-Divyanshu-Sharma/Hex](https://github.com/Twins-Divyanshu-Sharma/Hex) - Hexagonal application launcher
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mijorus/collector](https://github.com/mijorus/collector) - Drag multiple files and folders to "hold"
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mortie/swaylock-effects](https://github.com/mortie/swaylock-effects) - Screenlocker with additional eye-candy
 
 
 ### Other

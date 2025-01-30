@@ -52,6 +52,8 @@ https://github.com/FDH2/UxPlay - Cross-platform AirPlay server
 
 https://codeberg.org/wolfree - WolframAlpha but free
 
+https://github.com/futo-org/Grayjay.Desktop - All-in-1 media platform app
+
 https://github.com/imputnet/cobalt - Media downloader
 
 https://github.com/rustdesk/rustdesk - Remote desktop application
@@ -222,6 +224,8 @@ https://github.com/Coopydood/HyperFluent-GRUB-Theme - Grub bootloader themes
 
 https://github.com/3ximus/aerial-sddm-theme - SDDM login theme
 
+https://github.com/Keyitdev/sddm-astronaut-theme - Astronaut SDDM theme
+
 https://github.com/stepanzubkov/where-is-my-sddm-theme - Minimal SDDM theme
 
 https://github.com/vinceliuice/Colloid-gtk-theme - GTK theme
@@ -257,6 +261,8 @@ https://github.com/NvChad/NvChad - Neovim config
 https://github.com/Everblush - Dark vibrant color scheme
 
 https://github.com/gpakosz/.tmux - tmux config
+
+https://github.com/m3tozz/FastCat - FastFetch theme pack
 
 https://github.com/Achno/gowall - Convert a wallpaper's color scheme/palette
 
@@ -343,6 +349,8 @@ https://github.com/TheZoraiz/ascii-image-converter - Convert images to ascii art
 
 https://gitlab.com/timvisee/ffsend - share files from the command line using [Send](https://github.com/timvisee/send)
 
+https://github.com/homeport/termshot - Capture terminal output
+
 
 ### CLI/TUI Apps
 https://github.com/itsjunetime/tdf - TUI-based PDF viewer
@@ -376,6 +384,8 @@ https://github.com/cmus/cmus - Music player
 https://github.com/ravachol/kew - Music player
 
 https://github.com/PrajwalVandana/maestro-cli - Audio player
+
+https://github.com/qxb3/fum - TUI mpris client
 
 https://github.com/pystardust/ani-cli - Browse and play anime
 
@@ -543,6 +553,8 @@ https://github.com/maxhu08/mtab - New tab extension
 
 https://github.com/linuxmint/webapp-manager - Create webapps
 
+https://github.com/Abdallah-Alwarawreh/Syrup - Honey alternative
+
 
 ### Download Managers/Torrenters
 https://github.com/qbittorrent/qBittorrent - Torrent client
@@ -596,6 +608,8 @@ https://github.com/studiorack/studiorack-site - Audio plugin site
 https://github.com/mtytel/vital - Synthesizer
 
 https://github.com/VASTDynamics/Vaporizer2 - Synthesizer
+
+https://github.com/PolyMeilex/Neothesia/ - Cross-platform MIDI visualizer
 
 https://github.com/blender/blender - 3D creation suite
 
@@ -701,6 +715,8 @@ https://github.com/gristlabs/grist-core - Modern relational spreadsheets
 
 https://github.com/zed-industries/zed - Code editor
 
+https://github.com/rhyolite-org/rhyolite - Markdown editor
+
 https://github.com/reorproject/reor - AI-powered note taking app
 
 https://github.com/laurent22/joplin/ - Cross-platform note taking app
@@ -763,6 +779,8 @@ https://github.com/nathom/streamrip - Music downloader for Qobuz, Tidal, SoundCl
 
 https://github.com/staniel359/muffon/ - Multi-source music streaming + discovery client
 
+https://github.com/anandnet/Harmony-Music - Cross-platform music streamer
+
 https://github.com/zotify-dev/zotify - Music and podcast downloader
 
 https://github.com/nukeop/nuclear - Streaming music player that finds free music for you
@@ -801,6 +819,12 @@ https://github.com/EtchDroid/EtchDroid - Create bootable Linux image USBs
 
 https://github.com/thunderbird/thunderbird-android - Email client
 
+https://github.com/fast4x/RiMusic - Multilingual YouTube Music streamer
+
+https://github.com/crackededed/Xtra - Twitch player/browser
+
+https://github.com/twireapp/Twire - Twitch player/browser
+
 https://github.com/FossifyOrg/File-Manager - File manager
 
 https://github.com/zhanghai/MaterialFiles - Material You file manager
@@ -814,6 +838,8 @@ https://github.com/LawnchairLauncher/lawnchair - Material You launcher
 https://github.com/DroidWorksStudio/mLauncher - Minimal Launcher app
 
 https://github.com/davidhealey/waistline - Calorie counter app 
+
+https://github.com/kaii-lb/LavenderPhotos/ - Photo manager
 
 
 ### iOS
@@ -853,6 +879,8 @@ https://github.com/utmapp/UTM - Virtual machine for iOS and macOS
 
 https://github.com/BlueBubblesApp/bluebubbles-app - "Cross-platform" ecosystem of apps unifying iMessage
 
+https://github.com/Dimillian/IceCubesApp - Mastodon client
+
 https://github.com/iKenndac/Tofu - 2FA app
 
 https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy
@@ -866,6 +894,8 @@ https://github.com/massgravel/Microsoft-Activation-Scripts/ - Windows activation
 https://github.com/AutoHotkey/AutoHotkey - Automation scripting utility
 
 https://github.com/Open-Shell/Open-Shell-Menu - Windows Start menu replacement
+
+https://github.com/ramensoftware/windhawk - Windows customization marketplace
 
 https://github.com/fxsound2/fxsound-app - Advanced audio effect engine
 
@@ -887,6 +917,15 @@ https://github.com/lwouis/alt-tab-macos - Alt-Tab window switcher
 
 https://github.com/PlayCover/PlayCover - Run iOS apps and games on Apple Silicon Macs
 
+https://github.com/ExistentialAudio/BlackHole - Audio loopback driver
+
+https://github.com/kyleneideck/BackgroundMusic - Audio mixer
+
+https://github.com/koekeishiya/yabai - Tiling window manager
+
+https://github.com/chrissimpkins/Crunch - PNG file size optimizer
+
+https://github.com/Lakr233/NotchDrop - AirDrop in Dynamic Island
 
 ### Linux
 https://github.com/ChrisTitusTech/linutil - Linux toolbox and utilities
@@ -899,6 +938,10 @@ https://github.com/flightlessmango/MangoHud - Application overlay for monitoring
 
 https://github.com/benjamimgois/goverlay - GUI for MangoHud and utilities
 
+https://github.com/domferr/Linux-PowerToys - PowerToys for GNOME
+
+https://github.com/mfat/systemd-pilot - systemd service GUI manager
+
 https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet - List of supported games w/ anticheat
 
 https://github.com/qarmin/czkawka - Remove unnecessary files from your computer
@@ -908,6 +951,8 @@ https://gitlab.com/corectrl/corectrl - Profile based system control utility
 https://github.com/dimtpap/coppwr - GUI tool for PipeWire management
 
 https://github.com/wwmm/easyeffects - PipeWIre audio effect manager
+
+https://github.com/saivert/pwvucontrol - PipeWire volume control
 
 https://github.com/Audio4Linux/JDSP4Linux - Audio effect processor
 
@@ -989,6 +1034,8 @@ https://github.com/G-dH/advanced-alttab-window-switcher - GNOME Alt-Tab replacem
 
 https://github.com/sagb/alttab - Window switcher manager for X11
 
+https://gitlab.com/Oglo12/rebos - Cross-distro NixOS-like repeatability
+
 https://gitlab.com/bitseater/meteo - Forecast application using OpenWeatherMap API
 
 https://gitlab.com/chinstrap/gammastep - Adjust screen color temperature 
@@ -1007,13 +1054,13 @@ https://github.com/edisionnano/QDiskInfo - CrystalDiskInfo alternative
 
 https://github.com/gdzx/audiosource - Use an Android device as a USB microphone
 
-https://github.com/apernet/OpenGFW - Great Firewall of China 
-
 https://github.com/siddhpant/broo - Connect your phone as microphone wirelessly
 
 https://github.com/Twins-Divyanshu-Sharma/Hex - Hexagonal application launcher
 
 https://github.com/mijorus/collector - Drag multiple files and folders to "hold"
+
+https://github.com/mortie/swaylock-effects - Screenlocker with additional eye-candy
 
 
 ### Other
