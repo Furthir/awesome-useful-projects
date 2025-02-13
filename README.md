@@ -1152,4 +1152,6 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/WaviestBalloon/MyNameIsWalterHartwellWhite](https://github.com/WaviestBalloon/MyNameIsWalterHartwellWhite) - waltuh
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/orhun/binsider](https://github.com/orhun/binsider) - Binary analyzer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/harmonydata/harmony_r](https://github.com/harmonydata/harmony_r) - Harmony - an R package for researchers, using large language models on data such as psychology and mental health datasets
 ### [Back to top](/README.md#jump-to)
