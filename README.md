@@ -23,30 +23,30 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 # Projects
 ## Jump To
-- [Useful](/README.md#Useful) - Personal picks of very useful projects
-- [Backup/Sync](/README.md#backupsync) - Backup solutions and tools
-- [Customizations](/README.md#Customizations) - Utilities for customizing/theming stuff
-- [Awesome Lists](/README.md#awesome-lists) - Lists of useful resources
-- [Command Line Tools](/README.md#command-line-tools) - Command Line Utilities
-- [CLI/TUI Apps](/README.md#clitui-apps) - CLI/TUI based applications
-- [Oh-My](/README.md#oh-my) - Customized shells 
-- [Peripherals](/README.md#peripherals) - Programs to interact with your peripherals
-- [Modded](/README.md#modded) - Modded applications and clients
-- [Mail](/README.md#mail) - Email management
-- [Browsers](/README.md#Browsers) - Browsers
-- [Browser Extensions/Scripts/Tools](/README.md#browser-extensionsscriptstools) - Browser extensions
-- [Download Managers/Torrenters](/README.md#download-managerstorrenters) - Download managers
-- [Creative](/README.md#creative) - Creative programs and suites
-- [Privacy/Security](/README.md#privacysecurity) - Projects focusing on maintaining users' privacy
-- [Productivity](/README.md#productivity) - Productivity apps
-- [Media](/README.md#media) - Media related apps
-- [Games](/README.md#Games) - Game related tools/projects
-- [Android](/README.md#Android) - Android specific projects
-- [iOS](/README.md#iOS) - iOS specific projects
-- [Windows](/README.md#Windows) - Windows specific projects
-- [MacOS](/README.md#MacOS) - MacOS specific projects
-- [Linux](/README.md#Linux) - Linux specific projects
-- [Other](/README.md#Other) - Fun/interesting/miscellaneous projects
+- [Useful](#Useful) - Personal picks of very useful projects
+- [Backup/Sync](#backupsync) - Backup solutions and tools
+- [Customizations](#Customizations) - Utilities for customizing/theming stuff
+- [Awesome Lists](#awesome-lists) - Lists of useful resources
+- [Command Line Tools](#command-line-tools) - Command Line Utilities
+- [CLI/TUI Apps](#clitui-apps) - CLI/TUI based applications
+- [Oh-My](#oh-my) - Customized shells 
+- [Peripherals](#peripherals) - Programs to interact with your peripherals
+- [Modded](#modded) - Modded applications and clients
+- [Mail](#mail) - Email management
+- [Browsers](#Browsers) - Browsers
+- [Browser Extensions/Scripts/Tools](#browser-extensionsscriptstools) - Browser extensions
+- [Download Managers/Torrenters](#download-managerstorrenters) - Download managers
+- [Creative](#creative) - Creative programs and suites
+- [Privacy/Security](#privacysecurity) - Projects focusing on maintaining users' privacy
+- [Productivity](#productivity) - Productivity apps
+- [Media](#media) - Media related apps
+- [Games](#Games) - Game related tools/projects
+- [Android](#Android) - Android specific projects
+- [iOS](#iOS) - iOS specific projects
+- [Windows](#Windows-1) - Windows specific projects
+- [MacOS](#MacOS) - MacOS specific projects
+- [Linux](#Linux-1) - Linux specific projects
+- [Other](#Other-1) - Fun/interesting/miscellaneous projects
 
 ## Useful
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mifi/lossless-cut](https://github.com/mifi/lossless-cut) - Lossless video cutting tool
@@ -1184,4 +1184,4 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source
 
-### [Back to top](/README.md#jump-to)
+### [Back to top](#jump-to)

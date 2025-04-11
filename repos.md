@@ -1,28 +1,28 @@
 ## Jump To
-- [Useful](/repos.md#Useful) - Personal picks of very useful projects
-- [Backup/Sync](/repos.md#backupsync) - Backup solutions and tools
-- [Customizations](/repos.md#Customizations) - Utilities for customizing/theming stuff
-- [Awesome Lists](/repos.md#awesome-lists) - Lists of useful resources
-- [Command Line Tools](/repos.md#command-line-tools) - Command Line Utilities
-- [CLI/TUI Apps](/repos.md#clitui-apps) - CLI/TUI based applications
-- [Oh-My](/repos.md#oh-my) - Customized shells 
-- [Peripherals](/repos.md#peripherals) - Programs to interact with your peripherals
-- [Modded](/repos.md#modded) - Modded applications and clients
-- [Mail](/repos.md#mail) - Email management
-- [Browsers](/repos.md#Browsers) - Browsers
-- [Browser Extensions/Scripts/Tools](/repos.md#browser-extensionsscriptstools) - Browser extensions
-- [Download Managers/Torrenters](/repos.md#download-managerstorrenters) - Download managers
-- [Creative](/repos.md#creative) - Creative programs and suites
-- [Privacy/Security](/repos.md#privacysecurity) - Projects focusing on maintaining users' privacy
-- [Productivity](/repos.md#productivity) - Productivity apps
-- [Media](/repos.md#media) - Media related apps
-- [Games](/repos.md#Games) - Game related tools/projects
-- [Android](/repos.md#Android) - Android specific projects
-- [iOS](/repos.md#iOS) - iOS specific projects
-- [Windows](/repos.md#Windows) - Windows specific projects
-- [MacOS](/repos.md#MacOS) - MacOS specific projects
-- [Linux](/repos.md#Linux) - Linux specific projects
-- [Other](/repos.md#Other) - Fun/interesting/miscellaneous projects
+- [Useful](#Useful) - Personal picks of very useful projects
+- [Backup/Sync](#backupsync) - Backup solutions and tools
+- [Customizations](#Customizations) - Utilities for customizing/theming stuff
+- [Awesome Lists](#awesome-lists) - Lists of useful resources
+- [Command Line Tools](#command-line-tools) - Command Line Utilities
+- [CLI/TUI Apps](#clitui-apps) - CLI/TUI based applications
+- [Oh-My](#oh-my) - Customized shells 
+- [Peripherals](#peripherals) - Programs to interact with your peripherals
+- [Modded](#modded) - Modded applications and clients
+- [Mail](#mail) - Email management
+- [Browsers](#Browsers) - Browsers
+- [Browser Extensions/Scripts/Tools](#browser-extensionsscriptstools) - Browser extensions
+- [Download Managers/Torrenters](#download-managerstorrenters) - Download managers
+- [Creative](#creative) - Creative programs and suites
+- [Privacy/Security](#privacysecurity) - Projects focusing on maintaining users' privacy
+- [Productivity](#productivity) - Productivity apps
+- [Media](#media) - Media related apps
+- [Games](#Games) - Game related tools/projects
+- [Android](#Android) - Android specific projects
+- [iOS](#iOS) - iOS specific projects
+- [Windows](#Windows-1) - Windows specific projects
+- [MacOS](#MacOS) - MacOS specific projects
+- [Linux](#Linux-1) - Linux specific projects
+- [Other](#Other-1) - Fun/interesting/miscellaneous projects
 
 ## Useful
 https://github.com/mifi/lossless-cut - Lossless video cutting tool
@@ -1158,4 +1158,4 @@ https://github.com/orhun/binsider - Binary analyzer
 
 https://github.com/geekuillaume/soundsync - Virtual cables between any audio source
 
-### [Back to top](/repos.md#jump-to)
+### [Back to top](#jump-to)
