@@ -5,7 +5,7 @@
 <h3 align="center">
   A Curated List of 500+ Open Source Projects for Everyday Use
 </h3>
-<p align="center" style="font-size: small;">Thanks for 200 stars! - frthr</p>
+<p align="center" style="font-size: small;">Thanks for 300 stars! - frthr</p>
 
 # Intro
 A list of over 500 (and counting) open source projects that aims to have projects that is useful for any person that falls in between the range of tech-illiterate and 5head developer (is casual the word? idk). Maybe except for the Other section, that's just for fun. 
@@ -23,9 +23,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 # Projects
 ## Jump To
-
 - [Useful](/README.md#Useful) - Personal picks of very useful projects
-- [Games](/README.md#Games) - Game related tools/projects
 - [Backup/Sync](/README.md#backupsync) - Backup solutions and tools
 - [Customizations](/README.md#Customizations) - Utilities for customizing/theming stuff
 - [Awesome Lists](/README.md#awesome-lists) - Lists of useful resources
@@ -42,6 +40,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 - [Privacy/Security](/README.md#privacysecurity) - Projects focusing on maintaining users' privacy
 - [Productivity](/README.md#productivity) - Productivity apps
 - [Media](/README.md#media) - Media related apps
+- [Games](/README.md#Games) - Game related tools/projects
 - [Android](/README.md#Android) - Android specific projects
 - [iOS](/README.md#iOS) - iOS specific projects
 - [Windows](/README.md#Windows) - Windows specific projects
@@ -49,9 +48,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 - [Linux](/README.md#Linux) - Linux specific projects
 - [Other](/README.md#Other) - Fun/interesting/miscellaneous projects
 
-
-
-### Useful
+## Useful
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mifi/lossless-cut](https://github.com/mifi/lossless-cut) - Lossless video cutting tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - Video transcoder
@@ -88,10 +85,6 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - Cross-platform reimplementation of Notepad++
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neovim/neovim](https://github.com/neovim/neovim) - Better vim
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/helix-editor/helix](https://github.com/helix-editor/helix) - Vim-like modal text editor
-
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kando-menu/kando](https://github.com/kando-menu/kando) - Cross-platform pie menu launcher
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Screen capture sharing
@@ -126,8 +119,6 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lenochxc/WebDeck](https://github.com/Lenochxd/WebDeck) - Web-based StreamDeck alternative
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JacesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) -  CPU/GPU tuning utility for Windows
-
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nextcloud/server](https://github.com/nextcloud/server) - (Self-hosted) Cloud storage service
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ventoy/Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution
@@ -144,8 +135,6 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - Cross-platform bundle of tools for doing quick tasks
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Sangwan5688/BlackHole](https://web.archive.org/web/20240312134329/https://github.com/Sangwan5688/BlackHole) - [Archive] Music player app
-
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/builtree/handwrite](https://github.com/builtree/handwrite) - Generate a custom font based on your handwriting sample
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform file sharing between devices
@@ -158,62 +147,13 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/peazip/PeaZip](https://github.com/peazip/PeaZip) - Cross-platform file and archive manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/caoyue/WindowResizer](https://github.com/caoyue/WindowResizer) - Save/restore windows size/position with hotkeys (Windows)
-
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/upscayl/upscayl](https://github.com/upscayl/upscayl) - Cross-platform AI image upscaler
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jtroo/kanata](https://github.com/jtroo/kanata) - Cross-platform keyboard remapper
 
-
-### Games
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game data
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Game library manager
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - Custom launcher for Minecraft
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fn2006/PollyMC](https://github.com/fn2006/PollyMC) - Fork of Prism supporting accountless offline and FTB downloading
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hero-persson/FjordLauncherUnlocked](https://github.com/hero-persson/FjordLauncherUnlocked) - Maintained fork of fork of PollyMC reremoving DRM
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)- [Android] Minecraft Java Edition launcher
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - [iOS] Minecraft Java Edition launcher
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher on Linux
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimize Linux performance
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Custom Roblox bootstrapper
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xTrayambak/lucem](https://github.com/xTrayambak/lucem) - Wrapper for Sober (Roblox Linux runtime)
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ic3w0lf22/Roblox-Account-Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager) - Roblox account manager
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ic3w0lf22/RAMDecrypt](https://github.com/ic3w0lf22/RAMDecrypt) - Roblox Account Manager decrypter
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshit on Linux
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/honkers-launcher](https://github.com/an-anime-team/honkers-launcher)- HI on Linux
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/the-honkers-railway-launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) - honk game on Linux
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher) - Thy Anime Games on Mac
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NelloKudo/osu-winello](https://github.com/NelloKudo/osu-winello/) - osu! on linux script
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KotRikD/tosu](https://github.com/KotRikD/tosu) - osu! overlays
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Batch map downloader for osu!
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Piotrekol/CollectionManager](https://github.com/Piotrekol/CollectionManager) - osu! collection manager
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/netrisdotme/netris](https://github.com/netrisdotme/netris) - GeForce NOW alternative with Stadia's social features
-
-
-### Backup/Sync
+## Backup/Sync
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/RsyncProject/rsync](https://github.com/RsyncProject/rsync) - Incremental file transfer tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/warpinator](https://github.com/linuxmint/warpinator) - Send/receive files across local network
@@ -229,10 +169,15 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Thelocehilioson/yadm](https://github.com/TheLocehiliosan/yadm) - Git-based dotfiles manager
 
 
-### Customizations
+## Customizations
+### Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - Customizable Windows Desktop Environment
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Windows desktop customization tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Jax-Core](https://github.com/Jax-Core) - Rainmeter widgets
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rocksdanister/lively](https://github.com/rocksdanister/lively) - Animated wallpaper utility
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - UxTheme patcher for Windows
 
@@ -242,7 +187,12 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sColpx/windows-customization-extras](https://github.com/sColpx/windows-customization-extras) - Windows application skins
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JosiahDanger/DateToday](https://github.com/JosiahDanger/DateToday) - Configurable desktop date/time widget
+
+### Linux
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Hyprland dots
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - Hyprland dots
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Grub bootloader themes
 
@@ -258,15 +208,24 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Aylur/ags](https://github.com/Aylur/ags) - Linux Wayland desktop widgets
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tr1xem/hyprfabricated](https://github.com/tr1xem/hyprfabricated) - Shell for Hyprland
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Linux X11 desktop widgets
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - GTK theming tool
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Run Wallpaper Engine wallpapers on Linux
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - Wallpaper Engine for KDE
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/danihek/Themecord](https://github.com/danihek/Themecord) - Discord theme matching wallpaper
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/0bCdian/Waypaper-Engine](https://github.com/0bCdian/Waypaper-Engine) - Wayland wallpaper setter GUI 
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TornaxO7/vibe](https://github.com/TornaxO7/vibe) - Wayland shader & audio viz wallpapers
+
+### Other
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DefrimBinakaj/WallMod](https://github.com/DefrimBinakaj/WallMod) - Windows/Linux wallpaper management tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/starship/starship](https://github.com/starship/starship) - Custom shell prompt
 
@@ -293,7 +252,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - GNOME-like Steam skin
 
 
-### Awesome Lists
+## Awesome Lists
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - List of useful Windows tools/apps
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - List of MacOS resources
@@ -319,10 +278,12 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/avidseeker/awesome-areweyet](https://github.com/avidseeker/awesome-areweyet) - Current adoption status of various technologies
 
 
-### **Command Line Tools**
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - GPU accelerated terminal
+## Command Line Tools
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Extensible GPU accelerated terminal
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alacritty/alacritty](https://github.com/alacritty/alacritty) - GPU accelerated terminal
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alacritty/alacritty](https://github.com/alacritty/alacritty) - Extensible GPU accelerated terminal
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - Feature rich, GPU accelerated terminal
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sharkdp/bat](https://github.com/sharkdp/bat) - Better cat
 
@@ -364,6 +325,14 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Screenshot your terminal
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/homeport/termshot](https://github.com/homeport/termshot) - Capture terminal output
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Simpler manpages
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - tldr client in Rust
+
+[<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - tldr client in Zig
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Task list management utility
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Everduin94/better-commits](https://github.com/Everduin94/better-commits) - Better git commits following conventional commits spec
@@ -372,12 +341,15 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - Convert images to ascii art
 
-[<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/timvisee/ffsend](https://gitlab.com/timvisee/ffsend) - share files from the command line using [Send](https://github.com/timvisee/send)
+[<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/timvisee/ffsend](https://gitlab.com/timvisee/ffsend) - Share files from the command line using [Send](https://github.com/timvisee/send)
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/homeport/termshot](https://github.com/homeport/termshot) - Capture terminal output
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Y2Z/monolith](https://github.com/Y2Z/monolith) - Save webpage as a single HTML file
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/uutils/coreutils](https://github.com/uutils/coreutils) - Rust rewrite of GNU coreutils
 
-### CLI/TUI Apps 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - Command line benchmarking tool
+
+## CLI/TUI Apps 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/itsjunetime/tdf](https://github.com/itsjunetime/tdf) - TUI-based PDF viewer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/charmbracelet/glow](https://github.com/charmbracelet/glow) - Markdown viewer
@@ -418,6 +390,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/divhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - GitHub dashboard
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Levizor/tray-tui](https://github.com/Levizor/tray-tui) - TUI for systray applications
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Achno/gocheat](https://github.com/Achno/gocheat) - Customizable terminal cheatsheet
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HxX2/todocli](https://github.com/HxX2/todocli) - Todo list manager
@@ -432,7 +406,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) - Pipes terminal screensaver
 
-### Oh-My
+## Oh-My
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Cross-shell prompt
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
@@ -442,7 +416,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/)
 
 
-### Peripherals
+## Peripherals
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zocker-160/keyboard-center](https://github.com/zocker-160/keyboard-center) - Mapping macro keys on Logitech keyboards
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
@@ -466,7 +440,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/berarma/oversteer](https://github.com/berarma/oversteer) - Steering Wheel Manager for Linux
 
 
-### Modded
+## Modded
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pyoncord/Bunny](https://github.com/pyoncord/Bunny) - Modded Discord client for Android/iOS
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) - Modded Discord client for iOS (Wrapper for Enmity)
@@ -503,7 +477,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Steam client modding 
 
-### Mail
+## Mail
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Patches for Thunderbird
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) - Disposable emails
@@ -515,7 +489,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - Mobile email app
 
 
-### Browsers
+## Browsers
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/floorp-Projects/floorp](https://github.com/floorp-Projects/floorp/) - Customizable Firefox-based browser
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Independent browser
@@ -529,7 +503,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zen-browser/desktop](https://github.com/zen-browser/desktop) - Firefox-based browser
 
 
-### Browser Extensions/Scripts/Tools
+## Browser Extensions/Scripts/Tools
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gorhill/uBlock](https://github.com/gorhill/uBlock) - This is the greatest adblocker of All Time
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors
@@ -548,9 +522,9 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/Amm0ni4/bypass-all-shortlinks-debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) - Auto-bypass link shorteners
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - [Chrome] Bypass paywalls on articles
+[<img src="https://icon.horse/icon/gitflic.ru" height="20px" align="center"/>/magnolia1234/bypass-paywalls-chrome-clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean) - (Chrome) Bypass paywalls on articles
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>//bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - [Firefox] Bypass paywalls on articles
+[<img src="https://icon.horse/icon/gitflic.ru" height="20px" align="center"/>/magnolia1234/bypass-paywalls-firefox-clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean) - (Firefox) Bypass paywalls on articles
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Skips directly to final URL
 
@@ -559,8 +533,6 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/LibRedirect/browser_extension](https://codeberg.org/LibRedirect/browser_extension) - Redirects popular sites to alternative frontends
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/refined-github/refined-github](https://github.com/refined-github/refined-github) - GitHub QoL tweaks
-
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BrowserBoost/Extension](https://github.com/BrowserBoost/Extension) - Various browser tweaks
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Close any overlay on any website
 
@@ -580,8 +552,10 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Honey alternative
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/K3V1991/Disable-Firefox-Telemetry](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) - Guide to disable Firefox Telemetry/Data collection
 
-### Download Managers/Torrenters
+
+## Download Managers/Torrenters
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qbittorrent/qBittorent](https://github.com/qbittorrent/qBittorrent) - Torrent client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/transmission/transmission](https://github.com/transmission/transmission) - Torrent client
@@ -595,7 +569,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop/) - Maintained Motrix fork
 
 
-### Creative
+## Creative
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/darktable-org/darktable](https://github.com/darktable-org/darktable) - Image post-processing/editing
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - Modified darktable to improve workflow
@@ -651,7 +625,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/penpot/penpot](https://github.com/penpot/penpot) - Design and code collab tool
 
 
-### Privacy/Security
+## Privacy/Security
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/keepassxcreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - Password manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bitwarden/clients](https://github.com/bitwarden/clients) - Password manager
@@ -725,8 +699,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TeamPiped/RYD-Proxy](https://github.com/TeamPiped/RYD-Proxy) - non-logging proxy for Return YouTube Dislike API server
 
 
-### Productivity
-[<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/tenacityteam/tenacity](https://codeberg.org/tenacityteam/tenacity) -  (Audacity fork) Multi-track audio editor and recorder
+## Productivity
+[<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/tenacityteam/tenacity](https://codeberg.org/tenacityteam/tenacity) - (Audacity fork) Multi-track audio editor and recorder
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mattermost/focalboard](https://github.com/mattermost/focalboard) - Project management tool alternative to Trello/Notion/Asana
 
@@ -741,6 +715,12 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zed-industries/zed](https://github.com/zed-industries/zed) - Code editor
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rhyolite-org/rhyolite](https://github.com/rhyolite-org/rhyolite) - Markdown editor
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neovim/neovim](https://github.com/neovim/neovim) - Better vim
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neovide/neovide](https://github.com/neovide/neovide) - GUI for Neovim
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/helix-editor/helix](https://github.com/helix-editor/helix) - Vim-like modal text editor
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/reorproject/reor](https://github.com/reorproject/reor) - AI-powered note taking app
 
@@ -770,8 +750,9 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SwitchbackTech/compass](https://github.com/SwitchbackTech/compass) - Calendar app
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/glanceapp/glance](https://github.com/glanceapp/glance) - Self-hosted feed-at-a-glance dashboard
 
-### Media
+## Media
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpv-player/mpv](https://github.com/mpv-player/mpv) - Extensive media player
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - mpv with a GUI for Windows
@@ -826,8 +807,52 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate video and image finder
 
+## Games
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game data
 
-### Android
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Game library manager
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - Custom launcher for Minecraft
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fn2006/PollyMC](https://github.com/fn2006/PollyMC) - Fork of Prism supporting accountless offline and FTB downloading
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hero-persson/FjordLauncherUnlocked](https://github.com/hero-persson/FjordLauncherUnlocked) - Maintained fork of fork of PollyMC reremoving DRM
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)- [Android] Minecraft Java Edition launcher
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - [iOS] Minecraft Java Edition launcher
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher on Linux
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimize Linux performance
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fishstrap/fishstrap](https://github.com/fishstrap/fishstrap) - Custom Roblox bootstrapper
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xTrayambak/lucem](https://github.com/xTrayambak/lucem) - Wrapper for Sober (Roblox Linux runtime)
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Campionnn/Roblox-Account-Manager](https://github.com/Campionnn/Roblox-Account-Manager) - Roblox account manager
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ic3w0lf22/RAMDecrypt](https://github.com/ic3w0lf22/RAMDecrypt) - Roblox Account Manager decrypter
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshit on Linux
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/honkers-launcher](https://github.com/an-anime-team/honkers-launcher)- HI on Linux
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/the-honkers-railway-launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) - honk game on Linux
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher) - Thy Anime Games on Mac
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NelloKudo/osu-winello](https://github.com/NelloKudo/osu-winello/) - osu! on linux script
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KotRikD/tosu](https://github.com/KotRikD/tosu) - osu! overlays
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Batch map downloader for osu!
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Piotrekol/CollectionManager](https://github.com/Piotrekol/CollectionManager) - osu! collection manager
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/netrisdotme/netris](https://github.com/netrisdotme/netris) - GeForce NOW alternative with Stadia's social features
+
+## Android
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - Weather app 
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Privacy and security focused OS
@@ -835,6 +860,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LineageOS/android](https://github.com/LineageOS/android) - Alternate Android OS
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/fdroid/fdroidclient](https://gitlab.com/fdroid/fdroidclient) - Client for [F-Droid](https://f-droid.org), a Free Software repo system
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - Modern F-Droid client
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - Alternate Google Play store replacement
 
@@ -866,19 +893,16 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos/) - Photo manager
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - Backup manager
 
-### iOS
+## iOS
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/khangduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS apps in containers without installing it
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SideStore/SideStore](https://github.com/SideStore/SideStore) - AltStore alternative to sideload without a PC (iOS 14+)
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently (iOS 14-16.6.1, 17.0)
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Brixy2005/TrollStore-IPAs](https://github.com/Brixy2005/TrollStore-IPAs) - TrollStore IPA collection
-- <details>
-    <summary>Notice!</summary>
-    The original repo and maintainer(s) were unfortunately nuked, therefore no releases are available anymore.
-  </details>
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - TrollStore IPA collection
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/c22dev/Geranium](https://github.com/c22dev/Geranium) - Multi-purpose TrollStore app
 
@@ -911,7 +935,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qnblackcat/Downgrade-apps-on-AppStore](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) - Guide on downgrading apps
 
 
-### Windows
+## Windows
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ChrisTitus/Tech/winutil](https://github.com/ChrisTitusTech/winutil) - Windows All-in-one utility
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/massgravel/Microsoft-Activation-Scripts/](https://github.com/massgravel/Microsoft-Activation-Scripts) - Windows activation scripts
@@ -934,8 +958,9 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Win11 image build script
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/caoyue/WindowResizer](https://github.com/caoyue/WindowResizer) - Save/restore windows size/position with hotkeys
 
-### MacOS
+## MacOS
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/UeharaYou/HiddenBar](https://github.com/UeharaYou/HiddenBar) - Hide menu bar items
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Alt-Tab window switcher 
@@ -952,7 +977,9 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - AirDrop in Dynamic Island
 
-### Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wozniakpawel/PairPods](https://github.com/wozniakpawel/PairPods) - Share audio between Bluetooth devices
+
+## Linux
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Linux toolbox and utilities
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/autokey/autokey](https://github.com/autokey/autokey) - Scriptable automation utility, alternative to AHK
@@ -1043,6 +1070,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji picker for rofi
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KamiSenpai64/RofiWeb](https://github.com/KamiSenpai64/RofiWeb) - Browser search using rofi
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Network management menu
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xrelkd/clipcat](https://github.com/xrelkd/clipcat) - Clipboard manager
@@ -1088,9 +1117,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mortie/swaylock-effects](https://github.com/mortie/swaylock-effects) - Screenlocker with additional eye-candy
 
 
-### Other
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/aelew/devterms](https://github.com/aelew/devterms) - Dictionary of developer-related terms
-
+## Other
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/astralapp/astral](https://github.com/astralapp/astral) - GitHub Stars organizer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/download-directory/download-directory](https://github.com/download-directory/download-directory.github.io) - Download GitHub repo directories
@@ -1100,6 +1127,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Community list of open source alternatives
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rhasspy/piper](https://github.com/rhasspy/piper) - Local neural text to speech system
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Elleo/pied](https://github.com/Elleo/pied) - Piper TTS voice manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/redpenguinyt/display3d](https://github.com/redpenguinyt/display3d) - CLI for rendering and animating 3D objects
 
@@ -1152,4 +1181,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/WaviestBalloon/MyNameIsWalterHartwellWhite](https://github.com/WaviestBalloon/MyNameIsWalterHartwellWhite) - waltuh
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/orhun/binsider](https://github.com/orhun/binsider) - Binary analyzer
+
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source
+
 ### [Back to top](/README.md#jump-to)
