@@ -279,6 +279,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 
 ## Command Line Tools
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cortex-docs/cortex](https://github.com/cortex-docs/cortex) - Generate interactive API documentation, typed SDKs, and MCP servers from API specifications
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Extensible GPU accelerated terminal
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alacritty/alacritty](https://github.com/alacritty/alacritty) - Extensible GPU accelerated terminal
