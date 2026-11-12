@@ -538,6 +538,8 @@ https://github.com/subhra74/xdm - Download manager/accelerator
 
 https://github.com/KurtBestor/Hitomi-Downloader - Download manager
 
+https://github.com/ArkadyYum/HellDownloader - Browser extension & native host to download 4K/8K videos from YouTube, Reddit, TikTok, and 1,800+ sites
+
 https://github.com/agalwood/Motrix - Full-featured download manager
 
 https://github.com/imfile-io/imfile-desktop/ - Maintained Motrix fork

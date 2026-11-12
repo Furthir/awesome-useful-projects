@@ -566,6 +566,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Download manager
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ArkadyYum/HellDownloader](https://github.com/ArkadyYum/HellDownloader) - Browser extension & native host to download 4K/8K videos from YouTube, Reddit, TikTok, and 1,800+ sites
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/agalwood/Motrix](https://github.com/agalwood/Motrix) - Full-featured download manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop/) - Maintained Motrix fork
