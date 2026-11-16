@@ -979,6 +979,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - AirDrop in Dynamic Island
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/systemAdmin-ai/NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) - Control center around the MacBook notch: system metrics, now playing, notes, screen recording, task profiles
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wozniakpawel/PairPods](https://github.com/wozniakpawel/PairPods) - Share audio between Bluetooth devices
 
 ## Linux
